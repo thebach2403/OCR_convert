@@ -1,0 +1,9 @@
+pandas
+numpy
+pdfplumber
+pytesseract
+Pillow
+opencv-python
+PyYAML
+reportlab
+jinja2
