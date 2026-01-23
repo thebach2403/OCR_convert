@@ -18,4 +18,4 @@ def main():
     # generate_pdf(result, args.output)
 
 if __name__ == "__main__":
-    main()
+    main() 
