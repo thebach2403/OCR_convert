@@ -7,3 +7,4 @@ opencv-python
 PyYAML
 reportlab
 jinja2
+pymupdf

@@ -1,15 +1,31 @@
 import cv2
+import os
 
-def preprocess_image(img_path):
-    img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
+def preprocess_image(image_path, output_path, mode="gray"):
+    if not os.path.splitext(output_path)[1]:
+        output_path += ".png"
 
-    # Threshold
-    _, thresh = cv2.threshold(
-        img, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU
-    )
+    img = cv2.imread(image_path)
+    if img is None:
+        raise ValueError(f"Cannot read image: {image_path}")
 
-    # Remove noise
-    kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (1, 1))
-    clean = cv2.morphologyEx(thresh, cv2.MORPH_OPEN, kernel)
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-    return clean
+    if mode == "gray":
+        processed = gray
+
+    elif mode == "adaptive":
+        processed = cv2.adaptiveThreshold(
+            gray,
+            255,
+            cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
+            cv2.THRESH_BINARY,
+            31,
+            10
+        )
+
+    else:
+        raise ValueError("Unsupported preprocess mode")
+
+    cv2.imwrite(output_path, processed)
+    return output_path
