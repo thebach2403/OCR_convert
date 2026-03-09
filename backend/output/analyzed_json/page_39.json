@@ -1,0 +1,190 @@
+{
+  "page": "page_39.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "0,80"
+        ],
+        [
+          "0,60"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Qmax",
+          "(u'/l)",
+          "(m '/h) * )",
+          "(MJ/I)",
+          "flowrale (%)",
+          "(%)"
+        ],
+        [
+          "5,0",
+          "247,79",
+          "8729,2",
+          "354968,0",
+          "0,36",
+          "0,38"
+        ],
+        [
+          "10,0",
+          "500,27",
+          "17623,6",
+          "716654,5",
+          "(),36",
+          "0,37"
+        ],
+        [
+          "25,0",
+          "1247,77",
+          "43956,6",
+          "1787474,8",
+          "0,37",
+          "0,39"
+        ],
+        [
+          "40,}",
+          "2015,98",
+          "71019,2",
+          "2887962,9",
+          "0,38",
+          "0,39"
+        ],
+        [
+          "69,8",
+          "3492,27",
+          "123026,1",
+          "50028u6,7",
+          "(,37",
+          "0,38"
+        ],
+        [
+          "79,8",
+          "3987,9}",
+          "[40487,2",
+          "5712851,2",
+          "0,37",
+          "0,39"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "0,80"
+        ],
+        [
+          ",60"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UINC'ERTAINTY ANALYSIS ( GAS ME'TERING SYSTIM PM4 P(WER PLANTT"
+    },
+    {
+      "type": "paragraph",
+      "text": "6.0 SUMMARY OF METERING SYSTEM UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy Flowratc Espanded Uncerlainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "036 0,p7 06"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,35 0,36"
+    },
+    {
+      "type": "paragraph",
+      "text": "F ,20"
+    },
+    {
+      "type": "paragraph",
+      "text": ",00"
+    },
+    {
+      "type": "paragraph",
+      "text": "5,01 10,07 25,25 39,93 69,76 80,43"
+    },
+    {
+      "type": "paragraph",
+      "text": "% of Qmax"
+    },
+    {
+      "type": "paragraph",
+      "text": "For FQI - 1440"
+    },
+    {
+      "type": "paragraph",
+      "text": "The mnaximu expandcd unccrlainty for standard volume Ilow rate = 0.39 %"
+    },
+    {
+      "type": "paragraph",
+      "text": "The mnaximun expandcd unccrtainty for cncrgy Ilow ratc = 0.38%"
+    },
+    {
+      "type": "paragraph",
+      "text": "% Flowraíc Standard [lowrate Encrey (lowrate standard"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uexp [Jexp cnergy flowrale"
+    },
+    {
+      "type": "paragraph",
+      "text": "* The unit of volune flowrate is &vrted to the  veferene witio)n at 1.01325 ha { am 15 \" '"
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard Flowrate Expanded Uncerlainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,36 0,37 0,8B7"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,36 0,38"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,3"
+    },
+    {
+      "type": "paragraph",
+      "text": "E ,20"
+    },
+    {
+      "type": "paragraph",
+      "text": "(0"
+    },
+    {
+      "type": "paragraph",
+      "text": "9 4,96 10,01 24,96 40,32 69,85 79,76"
+    },
+    {
+      "type": "paragraph",
+      "text": "% of Qmax"
+    },
+    {
+      "type": "paragraph",
+      "text": "0"
+    },
+    {
+      "type": "paragraph",
+      "text": "lupe 29 (( 31"
+    }
+  ],
+  "num_tables": 3,
+  "num_blocks": 28
+}

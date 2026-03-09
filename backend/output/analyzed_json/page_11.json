@@ -1,0 +1,21 @@
+{
+  "page": "page_11.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "U"
+        ],
+        [
+          "0"
+        ],
+        [
+          "0"
+        ]
+      ]
+    }
+  ],
+  "num_tables": 1,
+  "num_blocks": 1
+}

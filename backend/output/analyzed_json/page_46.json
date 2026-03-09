@@ -1,0 +1,237 @@
+{
+  "page": "page_46.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Upac",
+          "Refcrcnce acculicy",
+          "0,u26",
+          "Rcclangular",
+          "1,73",
+          "(Ò",
+          "0,015",
+          "2,34E-04"
+        ],
+        [
+          "Upcul",
+          "Transmniller calibraliun",
+          "0 (6 ]",
+          "Nornal",
+          "2,00",
+          ",()u)",
+          "0,030",
+          "9,18E-()4"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Uudc",
+          "ADC tolerance (FlowCoup Inpun)",
+          "0,09 !",
+          "Reclunygulas",
+          "1,73",
+          "Uo",
+          "0,052",
+          "2,75E-03"
+        ],
+        [
+          "UJutol",
+          "Transminler culibralioui lolelauce",
+          "0,091",
+          "Rcclanggular",
+          "1,73",
+          "00",
+          "0,052",
+          "2 75E-03"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "URI",
+          "137,9)",
+          "bar"
+        ],
+        [
+          "Sjan",
+          "60",
+          "Iyar"
+        ],
+        [
+          "Reading",
+          "33,(0)",
+          "bar"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "PMU AFY ((: FQI 1420 (AS AIETERING SYSTEMI"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol Distribution Divisor (c; x u;)'"
+    },
+    {
+      "type": "paragraph",
+      "text": "of Uncertainty \""
+    },
+    {
+      "type": "paragraph",
+      "text": "Ulewp Ambicu leupcralune eltect 0,059 Eeclonxular 1,73 (6 0,034 1,174-03"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upu Drifl U,[(4 lcclalggular 1,73 00 {), ()60 3,64F-03"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ujj Powen supply effeci 0,045 Reclangular 1,73 uo) 0,426 6,89E-()4"
+    },
+    {
+      "type": "paragraph",
+      "text": "uú) Combined slandardl un)cerallly Norinal @f 0 1in @@0@@"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(u) Expanded uncertaiuy # Nuual (k-2) 2,00 0 2220"
+    },
+    {
+      "type": "paragraph",
+      "text": "Turndown 2,3 ;/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dwsnitter Culibration lulerauce"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reference Accurncy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cert. of calihration {){56) [% span"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.026 Pío spal} 0,030 bar"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,016 bar 0,891 % reading"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,u48 % rcadiug"
+    },
+    {
+      "type": "paragraph",
+      "text": "Icift"
+    },
+    {
+      "type": "paragraph",
+      "text": "lunsnitter_calibration Stability [Juralion mnonuhs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Calibralion inlerval 12/months"
+    },
+    {
+      "type": "paragraph",
+      "text": "CerL. of calibralion (24133 %0 span Slability 0,425 % URL/6O monh1s"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,020 bar 0,025 %0 Ulll 2 mvnlhs"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,(16 | \" readilg (),(34 bav [ 2 months"
+    },
+    {
+      "type": "paragraph",
+      "text": "(),(34 bar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ambicnl tcwpyrulurc gfIect 0,104 \"0 reading"
+    },
+    {
+      "type": "paragraph",
+      "text": "Poxgr suly effeg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maximum lemperalure dcviaiion Nu"
+    },
+    {
+      "type": "paragraph",
+      "text": "28 Vollage varialion Vults"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,025 % ot {JKL 0),047 bari28 €"
+    },
+    {
+      "type": "paragraph",
+      "text": "0625 % ot span 0,038 bav/28\"(' Stabilily () (it)5 % span/voll"
+    },
+    {
+      "type": "paragraph",
+      "text": "suJI} 0,055 bar/28*€ 0,003 hat/vol"
+    },
+    {
+      "type": "paragraph",
+      "text": "(),015 bar"
+    },
+    {
+      "type": "paragraph",
+      "text": "temperalue eflect 0,020 bar 0,045 % reading"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,059 % readling"
+    },
+    {
+      "type": "paragraph",
+      "text": "ADCest"
+    },
+    {
+      "type": "paragraph",
+      "text": "\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Cvc"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ceit. of calibration 44,015t) [% span"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,030 bar"
+    },
+    {
+      "type": "paragraph",
+      "text": "(},(91 % Teading"
+    },
+    {
+      "type": "paragraph",
+      "text": "KT3-01325CDT9 FT1420 Uncertainty . xls Page 3 of 10"
+    }
+  ],
+  "num_tables": 3,
+  "num_blocks": 43
+}

@@ -1,0 +1,35 @@
+{
+  "page": "page_14.png",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METERING SYSTEM _ PMA POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "1.0 INTRODUCTION"
+    },
+    {
+      "type": "paragraph",
+      "text": "The purpose ot this estimation study is t0 establish the uncertainty of of Phu My Gas Distribution"
+    },
+    {
+      "type": "paragraph",
+      "text": "Centre   (GDC). The   uncertainty eslimalion has been   performed at aclual line condition then"
+    },
+    {
+      "type": "paragraph",
+      "text": "transferred to the base condition at 15 \"C and 1,01325 bar a The uncertainty of the system will be"
+    },
+    {
+      "type": "paragraph",
+      "text": "presented below."
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 4 of 3"
+    }
+  ],
+  "num_tables": 0,
+  "num_blocks": 7
+}

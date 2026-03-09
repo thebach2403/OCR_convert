@@ -1,0 +1,58 @@
+{
+  "page": "page_40.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "0,80"
+        ],
+        [
+          "4,60"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METERING SYSTIM PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "6.0 SUMMARY OF METERING SYSTEM UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy_Flowrate_Expanded Uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,38 0,87 0,49 0,3\""
+    },
+    {
+      "type": "paragraph",
+      "text": "0,3 0,38"
+    },
+    {
+      "type": "paragraph",
+      "text": "E ,20"
+    },
+    {
+      "type": "paragraph",
+      "text": ",00"
+    },
+    {
+      "type": "paragraph",
+      "text": "4,96 10,01 24,96 40,32 69,85 79,76"
+    },
+    {
+      "type": "paragraph",
+      "text": "% of Qmnax"
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 300131"
+    }
+  ],
+  "num_tables": 1,
+  "num_blocks": 11
+}

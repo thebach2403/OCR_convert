@@ -1,0 +1,147 @@
+{
+  "page": "page_25.png",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS (F GAS MITERING; SYSTEM ~ PM4 POWER PLANT'"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.0 STANDARD VOLUME FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "laclor k = 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.2.4 Amlsient lempcrature effect U 'emp)'"
+    },
+    {
+      "type": "paragraph",
+      "text": "contribulion is   madc (o lhic   uncertainty   budgct lor variations in ambient   tcmpcralure_"
+    },
+    {
+      "type": "paragraph",
+      "text": "including thc variation bctwccn thc tcmperature during tlc calibration of tle transmitter  an thic"
+    },
+    {
+      "type": "paragraph",
+      "text": "operating tempcraturc. [lc cslimaled uncertainty for this is takcn Irom tle product data sheet."
+    },
+    {
+      "type": "paragraph",
+      "text": "UJuemnn = 1 (.(61% span / 10 \"€"
+    },
+    {
+      "type": "paragraph",
+      "text": "[he tolcrancc lor thc mnaximum tcmpcralurc dcvialion is assumed lo bc & 1() %' thcreforc:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uucmj 1  ().(05% of rcading"
+    },
+    {
+      "type": "paragraph",
+      "text": "wlcn calculating thc standard uncerlainty a rectangle distrihution is assuncd witl a covcragc laclor"
+    },
+    {
+      "type": "paragraph",
+      "text": "k =1.73 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.2.5 Transdlucer calilration tolcrancc Uutol"
+    },
+    {
+      "type": "paragraph",
+      "text": "[tcr   calibration a silc. The   ucceptance crilcrion for the   calibration of thc   tempcralure"
+    },
+    {
+      "type": "paragraph",
+      "text": "transduccr is calculatcd (rom silc rcports and has valuc hclow:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uhíl = 4 ().038 \"'ol span lor TT 1424"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Juol (.(15 \" of span lor TTT 444"
+    },
+    {
+      "type": "paragraph",
+      "text": "whcn calculaling tlc stanard uncertainty a rectangle distributiomn is assumcd with a covcrage"
+    },
+    {
+      "type": "paragraph",
+      "text": "faclor k = 1.73 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.2.6 Irift Uu"
+    },
+    {
+      "type": "paragraph",
+      "text": "The contribution duc (0 drịfì in transmittcr output is calculatcd from the value for stability"
+    },
+    {
+      "type": "paragraph",
+      "text": "taken from the tranduccr' s prodluct data sheet and the calibration intcrval. This is stated as which"
+    },
+    {
+      "type": "paragraph",
+      "text": "ever is the grcalcr ol:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stability = E ().]% rcading/24 months"
+    },
+    {
+      "type": "paragraph",
+      "text": "Therelore [or 47 aua] calibralion:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Utd 4+ (,05 % ol readingl 12 months"
+    },
+    {
+      "type": "paragraph",
+      "text": "when calculating thc standlard uncertainty a rectangle distrilution is assumed with a covcragc"
+    },
+    {
+      "type": "paragraph",
+      "text": "laclor k = 1,73."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.2.7 Power supply cffcct Uíp"
+    },
+    {
+      "type": "paragraph",
+      "text": "contrilution is madc to tlc unccrtainty budget lor variations in power supply. including the"
+    },
+    {
+      "type": "paragraph",
+      "text": "variation betwccu (he   powcr supply   during the  calilration of Ilc transducer   and that   during"
+    },
+    {
+      "type": "paragraph",
+      "text": "opcralion 'Thc cstimalcd unccrtainty lor this is takcn (rom thc product data sheet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Powcr supply cffcct 4 0.005% of calibrated span per volt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thc tolcrance lor tlc maxinum power supply deviation is assumcdl 1o be : 5 volls, tlcrefore:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pagc 15 0f31"
+    }
+  ],
+  "num_tables": 0,
+  "num_blocks": 35
+}

@@ -1,0 +1,177 @@
+{
+  "page": "page_16.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Pstd"
+        ],
+        [
+          "Qine * P,"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "where"
+        ],
+        [
+          "Qie"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METERING SYSTEM \" PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.0 ULTRASONIC METER UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.1. Flow calculation methodology"
+    },
+    {
+      "type": "paragraph",
+      "text": "The flow calculation   methodologies for Phu My GDC Gas   metering   system are in"
+    },
+    {
+      "type": "paragraph",
+      "text": "accordance witl AGA 9 lor ultrasonic meter; AGA 8-1994, and ISO 6976-1995."
+    },
+    {
+      "type": "paragraph",
+      "text": "3.2. Ultrasonic metering system"
+    },
+    {
+      "type": "paragraph",
+      "text": "As refer lo AGA 9 the flow process data measured by ultrasonic meter can be transmilted to"
+    },
+    {
+      "type": "paragraph",
+      "text": "flow computer via MODBUS protocol through RS 485 serial link. In this project; a digital signal is"
+    },
+    {
+      "type": "paragraph",
+      "text": "selected. 'he line volume [low rate is then given as below"
+    },
+    {
+      "type": "paragraph",
+      "text": "Qline x3600x x CPsm"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cfsm"
+    },
+    {
+      "type": "paragraph",
+      "text": "KF"
+    },
+    {
+      "type": "paragraph",
+      "text": "meler"
+    },
+    {
+      "type": "paragraph",
+      "text": "and the standard volume llowrate and energy tlowrate is illustrated as following equations (in"
+    },
+    {
+      "type": "paragraph",
+      "text": "accordance with AGA 9 Section 7.3.1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "P1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Qsud Qline"
+    },
+    {
+      "type": "paragraph",
+      "text": "Qm"
+    },
+    {
+      "type": "paragraph",
+      "text": "(3)"
+    },
+    {
+      "type": "paragraph",
+      "text": "24 KF"
+    },
+    {
+      "type": "paragraph",
+      "text": "Qr = Qsal x Hsvol"
+    },
+    {
+      "type": "paragraph",
+      "text": "P T PL"
+    },
+    {
+      "type": "paragraph",
+      "text": "VCF = X"
+    },
+    {
+      "type": "paragraph",
+      "text": "(5)"
+    },
+    {
+      "type": "paragraph",
+      "text": "P T, Pb"
+    },
+    {
+      "type": "paragraph",
+      "text": "Volume flow rate at line condition; m*/h"
+    },
+    {
+      "type": "paragraph",
+      "text": "'sld Volume flow rate at base condition; m' /h"
+    },
+    {
+      "type": "paragraph",
+      "text": "Qm Mass flow rate, kg/h"
+    },
+    {
+      "type": "paragraph",
+      "text": "Qi:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Energy flow rate, MJ/h"
+    },
+    {
+      "type": "paragraph",
+      "text": "KF Meter K-Factor derived from calibration certiticate"
+    },
+    {
+      "type": "paragraph",
+      "text": "mlilr"
+    },
+    {
+      "type": "paragraph",
+      "text": "Frequencylpulses generated from ultrasonic meter"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hs ,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vul Volume base heating value calculated in accordance with ISO 6976 1995, MJIm'"
+    },
+    {
+      "type": "paragraph",
+      "text": "VC'F Volume correction factor to base condition."
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 6 0l 3"
+    }
+  ],
+  "num_tables": 2,
+  "num_blocks": 39
+}

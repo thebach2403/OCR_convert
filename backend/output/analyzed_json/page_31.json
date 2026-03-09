@@ -1,0 +1,197 @@
+{
+  "page": "page_31.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "0,0246",
+          "(),2891",
+          "0,09",
+          "0),02",
+          "0,3062",
+          "0,05779}"
+        ],
+        [
+          "(1,(448",
+          "0,379|",
+          "(), 18",
+          "(),(2",
+          "0,4332",
+          "0,072299"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "nC,",
+          "0,0u56",
+          "0,3228",
+          "(),10",
+          "(),02",
+          "0,3438",
+          "0,015451"
+        ],
+        [
+          "iC5",
+          "(),(6 17",
+          "(,5608",
+          "0,14",
+          "(,02",
+          "0,583 !",
+          "(,006486"
+        ],
+        [
+          "nCs",
+          "(),()0 1()",
+          "(,5950",
+          "(),27",
+          "().02",
+          "6737",
+          "0,063969"
+        ],
+        [
+          "IC6",
+          "0,60)15",
+          "1,(430)",
+          "0.07",
+          "(),(2",
+          "1,0459",
+          "(),(67093"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS (F' GAS MITERING; SYSTEM PM4 P()WER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.0 STANDARD VOLUME FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "whcrc the sourccs of uccrtainty arc takcn to be"
+    },
+    {
+      "type": "paragraph",
+      "text": "( Icale ('alihration gas uncerlainy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Utol Thc calibration tolerancc"
+    },
+    {
+      "type": "paragraph",
+      "text": "U rcp Tlc ỵas chromalograph repcatalility"
+    },
+    {
+      "type": "paragraph",
+      "text": "The unccrlainty calculation lor cacl component ud tlnc scnsitivity cocfficients are shown in"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ihe table bclow"
+    },
+    {
+      "type": "paragraph",
+      "text": "Scusitivity coclicicnd calculation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cal. gas Calihration ('hromalopraph Combined"
+    },
+    {
+      "type": "paragraph",
+      "text": "Component"
+    },
+    {
+      "type": "paragraph",
+      "text": "uncertainty tolerancc repealahility uncerlainty C;"
+    },
+    {
+      "type": "paragraph",
+      "text": "valuc"
+    },
+    {
+      "type": "paragraph",
+      "text": "(%o) (%) (%) (%)"
+    },
+    {
+      "type": "paragraph",
+      "text": "C1 (),8880 0,0236 0,01 (,02 00336 0,763455"
+    },
+    {
+      "type": "paragraph",
+      "text": "(,(048 0,3506 0,06 (),()2 0,3584 0,007249"
+    },
+    {
+      "type": "paragraph",
+      "text": "8"
+    },
+    {
+      "type": "paragraph",
+      "text": "8,"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,0232 (,2979 0,08 0,02 0,3133 0,054761"
+    },
+    {
+      "type": "paragraph",
+      "text": "iC 0,0054 (,3333 0,1 1 0,02 0,3577 (,01"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.2.2 Uncertainty in standard dlensity"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thc ultrasonic mcler measured line volume is corrcctcd to base condition in ordcr to obtain"
+    },
+    {
+      "type": "paragraph",
+      "text": "tlc slandard volumc Ilow ralc at base condition:  'Thc corrcclion is donc in accordancc with PTZ"
+    },
+    {
+      "type": "paragraph",
+      "text": "mcthodology. 'Thc P17. lormula is descrilcd in equation 4."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tle gas comprcssibility ', and   gas density at basc  conditio is dctcrmined in Ilow conputcr in"
+    },
+    {
+      "type": "paragraph",
+      "text": "accordancc will IS( 6976 1995 will Ile gas data input (ron gas chromatograph."
+    },
+    {
+      "type": "paragraph",
+      "text": "4) (4)(4)*(4)*(4)(#) 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "M Rhottf )"
+    },
+    {
+      "type": "paragraph",
+      "text": "(44) 44)- 4 (\"\")  (\";)  (\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "U"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tle combincd standlard unccrtainty is calculated as shown hclow"
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 21 0f31"
+    }
+  ],
+  "num_tables": 2,
+  "num_blocks": 34
+}

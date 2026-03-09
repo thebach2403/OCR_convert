@@ -1,0 +1,94 @@
+{
+  "page": "page_15.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "compressibility is calculated in accordancc witl AGA 8. Standard volume flow is then derived with"
+        ],
+        [
+          "the PIZ lormula and encrgy flow ratc is obtaincd with the calorilic value calculated  using ISO"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METRING SYSTEM ~ PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.0 SYSTEM DESCRIPTION"
+    },
+    {
+      "type": "paragraph",
+      "text": "The custody transfer gas metcring skid of Phu My GDC is Ultrasonic (USM) mctering"
+    },
+    {
+      "type": "paragraph",
+      "text": "system."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eacl systcmn consisís of two Ultrasonic flow metcrs, each sizcd for 100% Ilow 5 000 1n'/l"
+    },
+    {
+      "type": "paragraph",
+      "text": "connected in serics with bypass lines around them on a skid. In normal use; one of them is used as"
+    },
+    {
+      "type": "paragraph",
+      "text": "thne   operation mcter   and the   other as   standby meler.  Normally   the flow shall be  tlrough the"
+    },
+    {
+      "type": "paragraph",
+      "text": "operation meler and shall bypass the slandby meler; by manually closing tle bypass line: During"
+    },
+    {
+      "type": "paragraph",
+      "text": "opcralion meter maintcnancc; tlc standby meter shall be used as the opcration mctcr."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eacl melcr [UI is   equipped wilh ohe Danicl FloBoss   $60o flow   computer [or Ilow"
+    },
+    {
+      "type": "paragraph",
+      "text": "computation with built in   pressure transmitter . 'Tempcralure lransnitter is used for line gas"
+    },
+    {
+      "type": "paragraph",
+      "text": "(emperature measurement   with a (4-20) mA analoguc input into flow computer. The Daniel 500"
+    },
+    {
+      "type": "paragraph",
+      "text": "Serics gas chromatograph (GC) is installed at thc Phu My GDC main control terminal for linc gas"
+    },
+    {
+      "type": "paragraph",
+      "text": "composition   analyscs; GC'  data is   distributed into each flow computer   via MODBUS  protocol"
+    },
+    {
+      "type": "paragraph",
+      "text": "through RS-485 serial link. Flow cotnputcr shall  use the received gas data and normalizcd it lor"
+    },
+    {
+      "type": "paragraph",
+      "text": "encrgy calculation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Line   volume   (lowrale is caleulatcc in accordance with AGA 9) for ultrasonic  mnctcr. Line"
+    },
+    {
+      "type": "paragraph",
+      "text": "6976."
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 5 ( 31"
+    }
+  ],
+  "num_tables": 1,
+  "num_blocks": 20
+}

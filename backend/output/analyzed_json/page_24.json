@@ -1,0 +1,144 @@
+{
+  "page": "page_24.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Uulac",
+          "Digital accuracy"
+        ],
+        [
+          "Uuda",
+          "DIA Accuracy"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METERING SYSTEM \" PMA POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.0 STANDARD VOLUME FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iduc Ical Item Ilol tade'"
+    },
+    {
+      "type": "paragraph",
+      "text": "U,"
+    },
+    {
+      "type": "paragraph",
+      "text": "V3 3 v3 V3"
+    },
+    {
+      "type": "paragraph",
+      "text": "where the sources of uncertainty are"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ical Transducer calibration"
+    },
+    {
+      "type": "paragraph",
+      "text": "'Itetlp Ambient temperature effect"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ilu] Transducer calibration tolerance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uu Drift"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uip Power supply effect"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uuadc ADC tolerance"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.2.1 Digital accuracy Uuac"
+    },
+    {
+      "type": "paragraph",
+      "text": "The reference digital accuracy is taken from the product data sheet for temperature RTD of"
+    },
+    {
+      "type": "paragraph",
+      "text": "flowcomputer ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Uulae =10,1 %C"
+    },
+    {
+      "type": "paragraph",
+      "text": "when calculating the standard uncertainty a rectangle distribution is assumed with a coverage"
+    },
+    {
+      "type": "paragraph",
+      "text": "factor k = 1,73."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.2.2 D/A accuracy Utda"
+    },
+    {
+      "type": "paragraph",
+      "text": "The reference D/A accuracy is taken lrom the product data sheed of RTD"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uda= = 4 0,02% of the calibrated span"
+    },
+    {
+      "type": "paragraph",
+      "text": "The data sheet presents the specifications \"conforming to at least 3 ơ\" therefore when calculaling"
+    },
+    {
+      "type": "paragraph",
+      "text": "the standard uncertainty a rectangle distribution is assumed witl a coverage lactor k = 1,73."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.2.3 Transducer calibration Uucal"
+    },
+    {
+      "type": "paragraph",
+      "text": "The temperature transmitler are calibrated at lab. with all corrections made it is estimated thal"
+    },
+    {
+      "type": "paragraph",
+      "text": "the uncertainty in measurement associated witl the reference standard S0"
+    },
+    {
+      "type": "paragraph",
+      "text": "cal 4 0,175 % of span lor TI' 1424"
+    },
+    {
+      "type": "paragraph",
+      "text": "tcal I 0,175 % of span for TT 1444"
+    },
+    {
+      "type": "paragraph",
+      "text": "when calculating the standard uncertainty a normal distribution is assumed with a coverage"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Rosemount Model 3144P Temperature Transmitter"
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 14 of 31"
+    }
+  ],
+  "num_tables": 1,
+  "num_blocks": 32
+}

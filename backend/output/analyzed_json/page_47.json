@@ -1,0 +1,229 @@
+{
+  "page": "page_47.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Uidac",
+          "Digital accuracy",
+          "0,500",
+          "Rectangular",
+          "1,73",
+          "1.00",
+          "0),289",
+          "8,3SF-()2"
+        ],
+        [
+          "Ido",
+          "DÍA Accuacy",
+          "0,080",
+          "Rectangular",
+          "1,73",
+          "1,00",
+          "0,046",
+          "2,/1-03"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Uica",
+          "Trarsmnitter calibralion",
+          "0,700",
+          "Nornal",
+          "2,00)",
+          "{)(",
+          "0,350",
+          "L23E-01"
+        ],
+        [
+          "'Icup",
+          "Amnhient lemnperalure eflect",
+          "() {50)",
+          "Reclangular",
+          "11,73",
+          "1,()0",
+          "(,029",
+          "R 33E-(A"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Moulcl",
+          "3141 DHLA"
+        ],
+        [
+          "Type",
+          "RTIJ"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Span",
+          "RO",
+          "\"`"
+        ],
+        [
+          "Reading",
+          "20",
+          "\""
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "PHU MF GDC - FQI 1420 GAS MJETERING SYSTEM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Falue"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symhol [istrihulion [ivisor (c; * \"1)'"
+    },
+    {
+      "type": "paragraph",
+      "text": "of {Incertainty \""
+    },
+    {
+      "type": "paragraph",
+      "text": "Ilot Transmitlec calibralion tolcrance 0,190 lectangular 1,73 1.00 0,410 1,20E-02"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ld Irilt {),()50) Rectangular 1,73 1.{90) (),029 8,33E-04"
+    },
+    {
+      "type": "paragraph",
+      "text": "Up Power supply cffecl 0), {0o Rectangular 1,73 ,0O 0,058 3,33E-(3"
+    },
+    {
+      "type": "paragraph",
+      "text": "ladc ADC' lest ()0 Rectangular 1,73 1,(10) 0,02? 5,33E-("
+    },
+    {
+      "type": "paragraph",
+      "text": "{u Comnbined standard uncentainty A Notmal @D24 0,475 2222@"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expandledi ucertainty #l Normnal (k-2) 2,00 @80> 2532000"
+    },
+    {
+      "type": "paragraph",
+      "text": "295,2 K"
+    },
+    {
+      "type": "paragraph",
+      "text": "Digital_Accuracx ril"
+    },
+    {
+      "type": "paragraph",
+      "text": "Frol .lata sheel (alilration inerval monhs"
+    },
+    {
+      "type": "paragraph",
+      "text": "().5{} 0, rcadling Stabilitv Inalios 2 mtwths"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stability prealet 0f {) , [% reaclingý 24 momlus"
+    },
+    {
+      "type": "paragraph",
+      "text": "DIAAccuacy O 0.05 % reading/12 tulus"
+    },
+    {
+      "type": "paragraph",
+      "text": "Frot dala sheel 0,02 s11a21"
+    },
+    {
+      "type": "paragraph",
+      "text": "(1,02 \""
+    },
+    {
+      "type": "paragraph",
+      "text": "(1,()8 % rending"
+    },
+    {
+      "type": "paragraph",
+      "text": "Irpnsnitter_culibralion"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iransmiltcr_ Calibretion [olcrance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cet (l calihralion (2.18 [% span"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cert of calihwation {.14 \"("
+    },
+    {
+      "type": "paragraph",
+      "text": "(} ()4 \"( 0.70 % reading"
+    },
+    {
+      "type": "paragraph",
+      "text": "{1 o(yuoi)o) \" veading"
+    },
+    {
+      "type": "paragraph",
+      "text": "[ower supplx_elfcct"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aubient tcmperature clfect Voltape varialion Volts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maximu letnperalure devialio 40 Stability' (,005 [% spanvolt"
+    },
+    {
+      "type": "paragraph",
+      "text": "[)i A effecl ( {1,{)1%span ! \"(') 0,01o 0.00)4 \"Crolt"
+    },
+    {
+      "type": "paragraph",
+      "text": "()}s(hooQ teading 0,02 'C"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,0+oo0o {). 1 ()0 % reading"
+    },
+    {
+      "type": "paragraph",
+      "text": "Amlient tempcralnre efTect Qsthook % eadling ADC_test"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cet. ()l calibualiowt (),)JQ [% spvan"
+    },
+    {
+      "type": "paragraph",
+      "text": "008 '("
+    },
+    {
+      "type": "paragraph",
+      "text": "0 (An \"  reading"
+    },
+    {
+      "type": "paragraph",
+      "text": "K13 0i325C)19 F11420 Uricerlainly xls PayR 4 oF 10"
+    }
+  ],
+  "num_tables": 4,
+  "num_blocks": 40
+}

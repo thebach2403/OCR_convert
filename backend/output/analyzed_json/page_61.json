@@ -1,0 +1,387 @@
+{
+  "page": "page_61.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Ahsolune pressure",
+          "0,12/",
+          "Normal",
+          "2,()6)",
+          "1,08993",
+          "(1.16",
+          "4.321;-03"
+        ],
+        [
+          "inc Icmperature",
+          "(1.969",
+          "Noural",
+          "2.(}",
+          "-().19458",
+          "(1,48",
+          "1.471;-{)3"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "('2",
+          "Fhane",
+          "(),433",
+          "Normal",
+          "2.6)",
+          "{2 098757",
+          "(1.22",
+          "3.6()4;-04"
+        ],
+        [
+          "('",
+          "[Propanc",
+          "0.313",
+          "Nowtnal",
+          "2 (Y)",
+          "().(6617",
+          "().16",
+          "1,071;-04"
+        ],
+        [
+          "iC'A",
+          "i-Butanc",
+          "(.358",
+          "Nowtal",
+          "2(",
+          "{).()26132",
+          "(1.18",
+          "1.321-(5"
+        ],
+        [
+          "M(,",
+          "n-{utane",
+          "0.344",
+          "Nurmnal",
+          "2.00)",
+          "(1,01859",
+          "{),/7",
+          "[.021;-05"
+        ],
+        [
+          "i(' <",
+          "i-Fenlane",
+          "0.583",
+          "Nurmal",
+          "2.00)",
+          "() ,(0778",
+          "0.29",
+          "5.14E-06"
+        ],
+        [
+          "I'",
+          "I-enlane",
+          "0.674",
+          "Normal",
+          "2.(()",
+          "().(1)479",
+          "0.}4",
+          "2.6E-(16"
+        ],
+        [
+          "1( `",
+          "n-Hesanc",
+          "1.046",
+          "Normal",
+          "2,(()",
+          "{},06876",
+          "(.52",
+          "2,10F;,-05"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "('ent",
+          "(al gas",
+          "Calihralioun",
+          "'hromat",
+          "( '(bincd"
+        ],
+        [
+          "Valuc",
+          "Uncertainty",
+          "Tolerance",
+          "Repcatability'",
+          "Uncertainty"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "('(2",
+          "{1,()246",
+          "(.Zx'1",
+          "(),(J9",
+          "(1,()2",
+          "(1.3{62",
+          "(1 (163737"
+        ],
+        [
+          "(`",
+          "1,1448",
+          "{2.3741",
+          "(118",
+          "().()2",
+          "0.4332",
+          "(1.87573"
+        ],
+        [
+          "(,",
+          "11.4232",
+          "{).2979",
+          "(1.(18",
+          "(1.()2",
+          "{.8[33",
+          "(1,66172"
+        ],
+        [
+          "1l20",
+          "UuMt",
+          "Aintn",
+          "{2(M}",
+          "11,(i}",
+          "(V{w)6it}",
+          "Nhicuthigi"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "')",
+          "(LoMf",
+          "UWJli t",
+          "1141",
+          "Ffi",
+          "Uinj(ak)",
+          "(iwJntMif1"
+        ],
+        [
+          "()2",
+          "11(4M 111",
+          "(UMi)m,",
+          "(1/",
+          "f(",
+          "411(6",
+          "Metnt Mjt |"
+        ],
+        [
+          "i('",
+          "{}.16154",
+          "(1333}",
+          "(11",
+          "(),0) 2",
+          "().3577",
+          "(1(12032}"
+        ],
+        [
+          "[1(",
+          "{1,(6150",
+          "{13228",
+          "0). 1(}",
+          "(1)2",
+          "(1.34,38",
+          "(1.418591"
+        ],
+        [
+          "ic%",
+          "7)./16117",
+          "0).5608",
+          "0.14",
+          "(1.(12",
+          "(.5831",
+          "(1.69097778"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "1( `",
+          "(Wih",
+          "AW)f",
+          "(Uit/",
+          "i} (M)",
+          "(Ụ( ịtM }",
+          "((w)nw)n"
+        ],
+        [
+          "11 (",
+          "N6h 11",
+          "I/}}6/",
+          "61/1( !",
+          "/1 (1/|",
+          "(44M 1(14}",
+          "WN)hitM)t"
+        ],
+        [
+          "I1(",
+          "(L(HIn",
+          "(I{ n }",
+          "1l/",
+          "fiu",
+          "W9tn",
+          "Wnicfafi"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "He",
+          "1M111",
+          "fi(I(M96",
+          "(()",
+          "fM)",
+          "(w1M}",
+          "{4(MiitJ"
+        ],
+        [
+          "Ar",
+          "1boj)n",
+          "tU",
+          "{1 ((!",
+          "12/1)",
+          "Oam)6)",
+          "(1igi()i)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tb. (C",
+          "15,00"
+        ],
+        [
+          "Ph. {var",
+          "1.1325"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "PJ' ì} (;)( 1(21 1440 (;AS MFTEKEVG; SESTEM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saur(e Value"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symlyol (istrilutiown Iirisor Il; (ư; X u;)7"
+    },
+    {
+      "type": "paragraph",
+      "text": "of 'ucertainty %"
+    },
+    {
+      "type": "paragraph",
+      "text": "7 [Iqpualion of slale (100 Normnal 2.()) Loooo 0.05 2,5616-03"
+    },
+    {
+      "type": "paragraph",
+      "text": "( Melhane 0.{134 Normnal 2.() () 90386 {2 .012 2.301"
+    },
+    {
+      "type": "paragraph",
+      "text": "N Nilrogen ().358 Nawmal 2.(0) () (1n)756 ().18 1.84[:-0"
+    },
+    {
+      "type": "paragraph",
+      "text": "('()? 'arhon /inxiche ().306 Normal 2,(u (2.(16374 (1.15 9.521;-(5"
+    },
+    {
+      "type": "paragraph",
+      "text": "4(7.o) C'hined slandaral uncerlainty' ## Nuwrrnal (1.(98 @mdd"
+    },
+    {
+      "type": "paragraph",
+      "text": "I(Z0 (1:xpanled uccrlainty ##Normal (k 2)] 2,00 # 0,20 Mmmm"
+    },
+    {
+      "type": "paragraph",
+      "text": "Densit? calculaled it accorelance witl A(iA8 /992"
+    },
+    {
+      "type": "paragraph",
+      "text": "Scnsitivily cocflicicut calculaliou"
+    },
+    {
+      "type": "paragraph",
+      "text": "% % % %"
+    },
+    {
+      "type": "paragraph",
+      "text": "(1.88si) 0.02.36 ().01 () ,(2 ().(13.36 ().9(13861"
+    },
+    {
+      "type": "paragraph",
+      "text": "S"
+    },
+    {
+      "type": "paragraph",
+      "text": "{},06)48 2{1/ ().()6 (1)2 (.4584 (),(117561"
+    },
+    {
+      "type": "paragraph",
+      "text": "FzS (Linhm) Iwncht1 0161( f1(1) 8 J1(6} {1Micjt)u)t"
+    },
+    {
+      "type": "paragraph",
+      "text": "H? vhw} 1 A(96w1 616n (I() A1m 96a} H (Yugibn/1"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"( () ,()() [ 1n) ().595( {).27 01.) 2 {.6717 (2.06)4789"
+    },
+    {
+      "type": "paragraph",
+      "text": "J( (),0015 1.2)4 36 0,07 ().(2 1 1,()459 (2,()()8766)"
+    },
+    {
+      "type": "paragraph",
+      "text": "U Jn 4W/t16 N(i(a / UU) 7 411 Nj6m1| 0 (9MMMt "
+    },
+    {
+      "type": "paragraph",
+      "text": "P hara 34.() { {), 1 206 1 {189926"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 2i),(( {1.9686 ~(1.()91585"
+    },
+    {
+      "type": "paragraph",
+      "text": "RIuv  Smn_Bih 28,559174 {) 7%"
+    },
+    {
+      "type": "paragraph",
+      "text": "0"
+    },
+    {
+      "type": "paragraph",
+      "text": "413 (1325CuF9 2 FTA40} Uncerlainly.xls Paye G vf 10"
+    }
+  ],
+  "num_tables": 8,
+  "num_blocks": 34
+}

@@ -1,0 +1,229 @@
+{
+  "page": "page_35.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "i('",
+          "0,0654",
+          "0,3333",
+          "0,11",
+          "(),02",
+          "0,3577",
+          "0,016265"
+        ],
+        [
+          "1€',",
+          "0,0u5",
+          "0,3228",
+          "(), 1(",
+          "0,02",
+          "0,3438",
+          "0,014980"
+        ],
+        [
+          "iCs",
+          "0,0017",
+          "0,5608",
+          "().14",
+          "(,(2",
+          "(,5831",
+          "0,066213"
+        ],
+        [
+          "1C5",
+          "0,0010",
+          "0,5950",
+          "0,27",
+          "(),02",
+          "().6737",
+          "(),0)6)381("
+        ],
+        [
+          "1C6",
+          "0,0015",
+          "1,0430",
+          "(),07",
+          "(),()2",
+          "1,()459",
+          "0,006763"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "lithane",
+          "0.43",
+          "Norma}",
+          "2.(()",
+          "().()7348",
+          "0.22",
+          "2,531;-()4"
+        ],
+        [
+          "Propane",
+          "0.31",
+          "Normal",
+          "2.()()",
+          "().(5397",
+          "0.16",
+          "7.14[;-()5"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "nCs",
+          "n-Penlanc",
+          "0.67",
+          "Normal",
+          "2.()()",
+          "(.()0.381",
+          "0.34",
+          "1.651;,-0)6"
+        ],
+        [
+          "n(6",
+          "I-Hexanc",
+          "1.05",
+          "Nomal",
+          "2.00",
+          "().()()676",
+          "0,52",
+          "1.251;,-()5"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS (F CAS METERING SYSTEM PM4 P(WIR PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.0 ENERGY FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,0448 0,3791 0,18 (),02 0,4332 0,073476"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,0232 0,2979 0),08 0),02 0,3133 0,0S"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.1.2 Uncertainty in calorific valuc"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fron Ihc   cxpcrimcnt  of 5 consecutivc cycles of validation check ol thc (ìC witl   using"
+    },
+    {
+      "type": "paragraph",
+      "text": "calibration gas. lo composition unccrtainty is dclermincd in accordance with ISO 6976 guidcline ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thc combined unccrtainty oFcating value at hasc condition is givcn as lollow"
+    },
+    {
+      "type": "paragraph",
+      "text": "m) +(\") +(\"4)(4)+#)+(\")+"
+    },
+    {
+      "type": "paragraph",
+      "text": "Il6r'"
+    },
+    {
+      "type": "paragraph",
+      "text": "(44)(4*)42) (\"2)  (\" )"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thc comhincd standard ucertainty is calculatcd as shown bclow"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value Prohability I)ivisor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symhol C; U;"
+    },
+    {
+      "type": "paragraph",
+      "text": "of uncertainty % dlistrilution Multiplier \"Ơv'"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eiquation of state 0.1 () Normal 2.()() 1 .(6)6)6)6) 0,05 2,501;,-()3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mellane 0.03 Nornal 2.,()() ().82971 0.02 1.944:-()4"
+    },
+    {
+      "type": "paragraph",
+      "text": "N Nitrogen 0.36 Normal 2.()0) 0.(66)0 | 0,18 2.4 [-12"
+    },
+    {
+      "type": "paragraph",
+      "text": "(0z Carbon DJioxidle 0,31 Normal 2.()() () .((6) /9 0,15 8.,541;-1 0"
+    },
+    {
+      "type": "paragraph",
+      "text": "("
+    },
+    {
+      "type": "paragraph",
+      "text": "i-Bulane 0.36 Normnal 2.(() 0.1627 0.18 8,46[-()6"
+    },
+    {
+      "type": "paragraph",
+      "text": "ic'"
+    },
+    {
+      "type": "paragraph",
+      "text": "nC4 II-Bulane 0,34 Normal 2.()() ().(1498 0,17 6,631;-(6"
+    },
+    {
+      "type": "paragraph",
+      "text": "i-Pentanc 0,58 Nowrnal 2,06) 0).()662/ 0,29 3.281;-()6"
+    },
+    {
+      "type": "paragraph",
+      "text": "ils"
+    },
+    {
+      "type": "paragraph",
+      "text": "I(( 'v) Combincd slandard uncertainty Normal 0,055"
+    },
+    {
+      "type": "paragraph",
+      "text": "(A'v) Expanded uncertainty Normal (k=2) 2.()0 o,11"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.2 Total uncertainty in encrgy flowrate"
+    },
+    {
+      "type": "paragraph",
+      "text": "Witl applying & mnathcmatical devialion (2tl cqjuation abuvc. uccrlainty elemens of encrgy flow is"
+    },
+    {
+      "type": "paragraph",
+      "text": "derivcd as follow"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pagc 25 vf }1"
+    }
+  ],
+  "num_tables": 3,
+  "num_blocks": 34
+}

@@ -1,0 +1,294 @@
+{
+  "page": "page_29.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "COz",
+          "0,0246",
+          "0,2891",
+          "0,09",
+          "0,02",
+          "0,3062",
+          "0,06373"
+        ],
+        [
+          "C2",
+          "0,0448",
+          "0,3791",
+          "0,18",
+          "0,02",
+          "0,4332",
+          "0,087:"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "C",
+          "0,0232",
+          "0,2979",
+          "0,08",
+          "0,02",
+          "0,3133",
+          "0,066172"
+        ],
+        [
+          "iC4",
+          "(),0054",
+          "0,3333",
+          "0,1 [",
+          "0,02",
+          "0,3577",
+          "0,020323"
+        ],
+        [
+          "nC4",
+          "0,u050",
+          "0,3228",
+          "0,10",
+          "0,02",
+          "0,3438",
+          "0,018591"
+        ],
+        [
+          "iC's",
+          "0,0017",
+          "0,5608",
+          "0,14",
+          "0,02",
+          "0,5831",
+          "0,007778"
+        ],
+        [
+          "nCs",
+          "0,0010",
+          "0,5950",
+          "0,27",
+          "0,02",
+          "0,6737",
+          "0,004789"
+        ],
+        [
+          "nC'6",
+          "0,0015",
+          "1.0430",
+          "0,07",
+          "0,02",
+          "1,0459",
+          "0,008760"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "P_ (bar",
+          "34,01",
+          "0,1206",
+          "1,089926"
+        ],
+        [
+          "Tu ( C)",
+          "20,00",
+          "0,9686",
+          "-0,091585"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "P",
+          "Ahsolute pressure",
+          "0,(60",
+          "Normval",
+          "2.00",
+          "1.0899}",
+          "0,03",
+          "1,08E-03"
+        ],
+        [
+          "T",
+          "Line temperalure",
+          "(),950",
+          "Normal",
+          "2.00",
+          "-(),09158",
+          "0,48",
+          "1,89E-03"
+        ],
+        [
+          "7",
+          "Equation of state",
+          "0,1(0",
+          "Normal",
+          "2.00",
+          "1.o0000",
+          "0,05",
+          "2,50E-03"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "C",
+          "Melhane",
+          "0,034",
+          "Normal",
+          "2.0()",
+          "0,90386",
+          "0,02",
+          "2,30E-04"
+        ],
+        [
+          "N",
+          "Nitrogen",
+          "0.358",
+          "Normal",
+          "2,00",
+          "0,00756",
+          "0,18",
+          "1,84E-06"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS (F (AS METERING SYSTEM  PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.0 STANDARD VOLUME FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.3.2 Uncertainty in upstrcam density"
+    },
+    {
+      "type": "paragraph",
+      "text": "By using tle line prcssurc, temperalure   and live gas data from gas chromatograph,  thc linc"
+    },
+    {
+      "type": "paragraph",
+      "text": "compressibility   factor and also the   line density value can be obtained in accordance to AGA 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "calculation The combincd standard unccrlainty is calculated as show below"
+    },
+    {
+      "type": "paragraph",
+      "text": "\") (\")4) (%) (\") (\") (\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(Rho) ="
+    },
+    {
+      "type": "paragraph",
+      "text": "(4)+(\") + 44) +F (\") \"2) (\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "For FT _ 1420"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol [is(rilution Dívisor U; (c X u;)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "0f uncertainty \""
+    },
+    {
+      "type": "paragraph",
+      "text": "CO Carbon Dioxide 0,306 Normal 2.,00 0,06374 0,15 9,521-05"
+    },
+    {
+      "type": "paragraph",
+      "text": "Elhane 0.433 Normal 2.00 0,08757 0,22 3,60E-04"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cz"
+    },
+    {
+      "type": "paragraph",
+      "text": "Propanc 0,313 Normal 2,0() 0,06617 0,16 1,071-04"
+    },
+    {
+      "type": "paragraph",
+      "text": "C"
+    },
+    {
+      "type": "paragraph",
+      "text": "i-Butane 0,358 Normal 2,00 0,02032 0,18 1,32E-05"
+    },
+    {
+      "type": "paragraph",
+      "text": "iCa"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"-Butane 0,344 Normal 2,00 0,01859 0,17 1.02E-05"
+    },
+    {
+      "type": "paragraph",
+      "text": "nCa"
+    },
+    {
+      "type": "paragraph",
+      "text": "i-Penlane (),583 Normal 2.00 0,00778 0,29 5,146-06"
+    },
+    {
+      "type": "paragraph",
+      "text": "iCs"
+    },
+    {
+      "type": "paragraph",
+      "text": "n-Pentane 0.674 Normal 2.(0 0.00479 0,34 2,60E-06"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Cs"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"-Hexane 1,046 Nornal 2.()() 0,00876 0,52 2./"
+    },
+    {
+      "type": "paragraph",
+      "text": "nC6"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(Rlns) Combined standard uncertainty Normal 0,080"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(Rho) Expanded unccrtainty Normal (k-2) 2.00 0,16"
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 19 0f 31"
+    }
+  ],
+  "num_tables": 5,
+  "num_blocks": 37
+}

@@ -3,7 +3,7 @@ from pathlib import Path
 
 
 # =====================================================
-# Layout Analyzer (v1 - rule based)
+# Layout Analyzer (v2 - rule based)
 # =====================================================
 
 class LayoutAnalyzer:
@@ -158,7 +158,7 @@ class LayoutAnalyzer:
 
         blocks = []
 
-        used = set()
+        used_lines = set()
 
 
         # -------- Tables --------
@@ -178,14 +178,14 @@ class LayoutAnalyzer:
 
 
             for r in table:
-                used.add(id(r))
+                used_lines.add(id(r))
 
 
-        # -------- Text --------
+        # -------- Paragraphs --------
 
         for line in lines:
 
-            if id(line["items"]) in used:
+            if id(line["items"]) in used_lines:
                 continue
 
 
@@ -194,15 +194,19 @@ class LayoutAnalyzer:
             )
 
 
-            blocks.append({
-                "type": "paragraph",
-                "text": text
-            })
+            if text.strip():
+
+                blocks.append({
+                    "type": "paragraph",
+                    "text": text
+                })
 
 
         return {
             "page": ocr_data["image"],
-            "blocks": blocks
+            "blocks": blocks,
+            "num_tables": len(tables),
+            "num_blocks": len(blocks)
         }
 
 

@@ -1,0 +1,194 @@
+{
+  "page": "page_26.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Uadc",
+          "=+",
+          "0,01 % of reading for TT",
+          "1424"
+        ],
+        [
+          "Utadc",
+          "=+",
+          "0,01 % of reading for TT",
+          "1444"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Uudlac",
+          "Digital accuracy_",
+          "0,500",
+          "Rectangular",
+          "1,73",
+          "1,00",
+          "0,289",
+          "8,35E-02"
+        ],
+        [
+          "Uudu",
+          "DIA_Accuracy",
+          "0,080",
+          "Rectangular",
+          "1,73",
+          "1,00",
+          "0,046",
+          "2,14E-03"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Uuol",
+          "tolerance",
+          "0,/90",
+          "Rectangular",
+          "1,73",
+          "1,00",
+          "02110",
+          "1,20E-02"
+        ],
+        [
+          "Uu",
+          "Drift",
+          "0,050",
+          "Rectangular",
+          "1,73",
+          "1,00",
+          "0,029",
+          "8,33E-04"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METERING SYSTEM ~ PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.0 STANDARD VOLUME FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "Utp 4 0,18% of reading"
+    },
+    {
+      "type": "paragraph",
+      "text": "when calculating the slandard uncertainty a rectangle distribution is assumed with a coverage"
+    },
+    {
+      "type": "paragraph",
+      "text": "factor k = 1,73 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.2.8 ADC tolerance"
+    },
+    {
+      "type": "paragraph",
+      "text": "padlc"
+    },
+    {
+      "type": "paragraph",
+      "text": "The analogue to digital converter at the input of the {low computer is checked by routine"
+    },
+    {
+      "type": "paragraph",
+      "text": "calibration to be within the tolerance of + 0,1% of span. However the Uudac < after calibration is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "When calculating the standard   uncertainty a rectangular   distribution is assumed with a"
+    },
+    {
+      "type": "paragraph",
+      "text": "coverage factor k = 1,73 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.2.9 Combined uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "The combined standard uncertainty calculaled using the equation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adac: teal llemp Itul Jaudlc"
+    },
+    {
+      "type": "paragraph",
+      "text": "U, +(%;("
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "is represented in a tabular form as shown below, note that the sensitivity coefficient c; lor each"
+    },
+    {
+      "type": "paragraph",
+      "text": "input is 1 as they are all expressed as a percentage ot the lemperature reading."
+    },
+    {
+      "type": "paragraph",
+      "text": "For TT _ 1424"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol Distribution Divisor Ci Ili (c; X v;)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "of Uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ucal Transmitter calibration 0,700 Normal 2,00 1,00 0,350 1,23E-01"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uuenp Ambient temperature effect 0,050 Rectangular 1,73 1,00 0,029 8,336-04"
+    },
+    {
+      "type": "paragraph",
+      "text": "Transmitter calibration"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uw Power supply effect 0,100 Rectangular 1.73 1,00 0,058 3,33E-03"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uladc ADC test 0,040 Rectangular 1,73 1,00 0,023 5,331-04"
+    },
+    {
+      "type": "paragraph",
+      "text": "U() Combined standard_uncertainty Normal 0,475"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uo Fxpanded uncertainty Normal (k=2) 2,00 0,95"
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 16 of 31"
+    }
+  ],
+  "num_tables": 3,
+  "num_blocks": 33
+}

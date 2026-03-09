@@ -1,0 +1,191 @@
+{
+  "page": "page_34.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Ucalg",
+          "Calibralion gas uncertainty"
+        ],
+        [
+          "Ulol",
+          "The calibration tolerance"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "C!",
+          "0,8880",
+          "0,0236",
+          "0,01",
+          "0,02",
+          "0,0336",
+          "(,829712"
+        ],
+        [
+          "N",
+          "0,0048",
+          "0,3506",
+          "(6",
+          "0,02",
+          "023584",
+          "0,000009"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METERING SYSTEM  PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.0 ENERGY FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "The uncertainty in the energy llowrate can be calculated by including the uncertainty in the caloritic"
+    },
+    {
+      "type": "paragraph",
+      "text": "value Ec'v."
+    },
+    {
+      "type": "paragraph",
+      "text": "sIdl Jexj (cv)exp"
+    },
+    {
+      "type": "paragraph",
+      "text": "U"
+    },
+    {
+      "type": "paragraph",
+      "text": "(e"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.1 Calorific value"
+    },
+    {
+      "type": "paragraph",
+      "text": "[he caloritic value  (C'V) is calculated Iroi the gas   composition measured by à"
+    },
+    {
+      "type": "paragraph",
+      "text": "gas"
+    },
+    {
+      "type": "paragraph",
+      "text": "chromatograph."
+    },
+    {
+      "type": "paragraph",
+      "text": "'[he lunnctional relationship used 10 determine the calorific value is delined in ISO 69766. this"
+    },
+    {
+      "type": "paragraph",
+      "text": "can be wrilten in the lorn"
+    },
+    {
+      "type": "paragraph",
+      "text": "y 22 [(x1, X2, X}... Xi)"
+    },
+    {
+      "type": "paragraph",
+      "text": "where Ihe output y (C'V) is à finnction ol a numher of inputs X (components  lorming the gas"
+    },
+    {
+      "type": "paragraph",
+      "text": "composition)"
+    },
+    {
+      "type": "paragraph",
+      "text": "'[he sensilivily coellicients lor each of the input quantities are calculated by the same finite"
+    },
+    {
+      "type": "paragraph",
+      "text": "dillerence melhod as used when calculating the sensitivity coellicients lor the upstreamn density ."
+    },
+    {
+      "type": "paragraph",
+      "text": "5.1.1 Sensitivity coefficients for calorific value uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "The uncertainty calculation lor eacl component and the sensitivity coeflicients are shown in the"
+    },
+    {
+      "type": "paragraph",
+      "text": "table below"
+    },
+    {
+      "type": "paragraph",
+      "text": "The combined standard uncertainty for each component is calculated by"
+    },
+    {
+      "type": "paragraph",
+      "text": "U calg tol rep"
+    },
+    {
+      "type": "paragraph",
+      "text": "u m :="
+    },
+    {
+      "type": "paragraph",
+      "text": "where the sources of uncerlainty are taken to be:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Urep The gas chromatograph repeatability"
+    },
+    {
+      "type": "paragraph",
+      "text": "The uncertainty calculation for each component and the sensitivity coellicients are slown in the"
+    },
+    {
+      "type": "paragraph",
+      "text": "table below:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Composition Chromatograph Chromatograpl Combined"
+    },
+    {
+      "type": "paragraph",
+      "text": "Value"
+    },
+    {
+      "type": "paragraph",
+      "text": "uncertainty tolerance repealabilily uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "(%)"
+    },
+    {
+      "type": "paragraph",
+      "text": "(%) (%) (%) (%)"
+    },
+    {
+      "type": "paragraph",
+      "text": "C02 0,0246 022891 09) 0, 02 0,3062 0,000191"
+    },
+    {
+      "type": "paragraph",
+      "text": "[S0 6976 Naural (ìas ('aleulation of calorific values. density; relaive density ad Wobhe indlex Jrom & gas cowsition"
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 24 ol31"
+    }
+  ],
+  "num_tables": 2,
+  "num_blocks": 39
+}

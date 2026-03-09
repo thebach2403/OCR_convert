@@ -1,0 +1,60 @@
+{
+  "page": "page_64.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "4std",
+          "Standard Ilowrate",
+          "0,370)",
+          "Normal",
+          "2,00",
+          "1,06",
+          "(,19",
+          "0,036"
+        ],
+        [
+          "CV",
+          "Calorific value",
+          "0,F10",
+          "Normal",
+          "2,(u",
+          "1,00",
+          "0,(16",
+          "0,003"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "PHU MY GDC - FQI 1440 GAS MEFERINC SYSTEM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value Probability Divisor /"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol Ci Ili (c; x u;)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "of Uncertainty % [istribution Multiplier"
+    },
+    {
+      "type": "paragraph",
+      "text": "u([:) Coinbined standard uncertainty ## Normal 89 0,/97 002@0"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(I;) Expanded uncertainty Normal (k-2) 2,00 0,39 M"
+    },
+    {
+      "type": "paragraph",
+      "text": "KT3-01325CDT9.2 FT1440 Uncertainty .xls Page 9 of 10"
+    }
+  ],
+  "num_tables": 1,
+  "num_blocks": 8
+}

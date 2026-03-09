@@ -1,0 +1,55 @@
+{
+  "page": "page_12.png",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METERING SYSTEM PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "REVISION CONTROL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Date of"
+    },
+    {
+      "type": "paragraph",
+      "text": "Review Description Prepared Checked Approved by"
+    },
+    {
+      "type": "paragraph",
+      "text": "issue"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nguyen Nhu Nguyen Van"
+    },
+    {
+      "type": "paragraph",
+      "text": "Document Development"
+    },
+    {
+      "type": "paragraph",
+      "text": "Y Duy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nguyen Nhu Nguyen Van Truong Thanl"
+    },
+    {
+      "type": "paragraph",
+      "text": "11/03/2020 Issued"
+    },
+    {
+      "type": "paragraph",
+      "text": "Y Duy Son"
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 2 0f 31"
+    }
+  ],
+  "num_tables": 0,
+  "num_blocks": 12
+}

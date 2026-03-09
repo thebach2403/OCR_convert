@@ -1,0 +1,152 @@
+{
+  "page": "page_7.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "5,0",
+          "248",
+          "8729",
+          "354968",
+          "0,36",
+          "0,38"
+        ],
+        [
+          "10,0",
+          "500",
+          "17624",
+          "716655",
+          "0,36",
+          "0,37"
+        ],
+        [
+          "25,0",
+          "1248",
+          "43957",
+          "1787475",
+          "0,37",
+          "0,39"
+        ],
+        [
+          "40,3",
+          "2016",
+          "71019",
+          "2887963",
+          "0,38",
+          "0,39"
+        ],
+        [
+          "69,8",
+          "3492",
+          "123026",
+          "5002801",
+          "0,37",
+          "0,38"
+        ],
+        [
+          "79,8",
+          "3988",
+          "140487",
+          "5712851",
+          "0,37",
+          "0,39"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Số/ No.: KT3-01325CDT9/2"
+    },
+    {
+      "type": "paragraph",
+      "text": "0"
+    },
+    {
+      "type": "paragraph",
+      "text": "11. Độ không đảm bảo do của hệ thốngl Uncertainty 0f metering system "
+    },
+    {
+      "type": "paragraph",
+      "text": "Độ không đảm bảo đol"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lưu lượngl Flow rate"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "Danh định/ Thể tích chuẩn/ Năng lượngl Thể tích chuẩnl Năng lượngl"
+    },
+    {
+      "type": "paragraph",
+      "text": "% Qmax"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nominal Standard volume Energy Standard volume Energy"
+    },
+    {
+      "type": "paragraph",
+      "text": "% mlb Sn'/h MJIh %"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note"
+    },
+    {
+      "type": "paragraph",
+      "text": "Độ không đảm bảo đo được tính theo ISO 5168.2005 với phân bố chuẩn tuơng ứng độ lin cậy 95%"
+    },
+    {
+      "type": "paragraph",
+      "text": "và hệ số phủ k =2/ The total uncertainty is calculated base on ISO 5168:2005 with the confident"
+    },
+    {
+      "type": "paragraph",
+      "text": "level at 95 % and coverage factor k = 2;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kết quả tính toán dựa trên điều kiện làm việc của hệ thống tại áp suất chân không 34,01325 bar a"
+    },
+    {
+      "type": "paragraph",
+      "text": "và 20 C/ The calculated results in the operating condition at absolute pressure 34,01325 bar a and"
+    },
+    {
+      "type": "paragraph",
+      "text": "20 C;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thành phần khí áp dụng tính toán tương ứng với thành phần khí làm việc cùa hệ thốngl The"
+    },
+    {
+      "type": "paragraph",
+      "text": "applied gas composition was representative of working system natural gas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Đơn vị lưu lwợng khí chuẩn được tính tại điều kiện chuẩn là áp suất chân không 1,01325 bar a và"
+    },
+    {
+      "type": "paragraph",
+      "text": "15 ' C/ The unit of volume flowrate is converted to the reference condition at 1,01325 bar a and"
+    },
+    {
+      "type": "paragraph",
+      "text": "15 % = C"
+    },
+    {
+      "type": "paragraph",
+      "text": "0"
+    }
+  ],
+  "num_tables": 1,
+  "num_blocks": 24
+}

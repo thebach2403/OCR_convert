@@ -1,0 +1,175 @@
+{
+  "page": "page_38.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "5,0",
+          "250,31",
+          "8817,9",
+          "358578,0",
+          "(,35",
+          "0,36"
+        ],
+        [
+          "10,1",
+          "503,54",
+          "17738,8",
+          "721338,9",
+          "(,36",
+          "0,37"
+        ],
+        [
+          "25,2",
+          "1262,44",
+          "44473,4",
+          "1808490,1",
+          "0,36",
+          "0,37"
+        ],
+        [
+          "39,9",
+          "1996,41",
+          "70329,7",
+          "2859928,2",
+          "(,35",
+          "0,36"
+        ],
+        [
+          "69,8",
+          "3488,23",
+          "122883,7",
+          "4997013,2",
+          "(,34",
+          "0,36"
+        ],
+        [
+          "80,4",
+          "4021,72",
+          "441677,6",
+          "5761256,6",
+          "0,35",
+          "0,36"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "0,80"
+        ],
+        [
+          "2,60"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANAIYSIS OF (AS METERING SYSTEM PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "6.0 SUMMARY OF METERING SYSTEM UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "This  section  provides tle summary results of the  uncerlainty   estimation lor each gas metering"
+    },
+    {
+      "type": "paragraph",
+      "text": "system. The detail calculation has been performed based on [S05168- 2002 and shown in Appendix"
+    },
+    {
+      "type": "paragraph",
+      "text": "A, B and € ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The uncerlainty estimation perlormed has been based on results described in the product catalogue;"
+    },
+    {
+      "type": "paragraph",
+      "text": "results obtained from some analysis and results from some third party testing lacility"
+    },
+    {
+      "type": "paragraph",
+      "text": "In summary, the uncerlainty estimation was witlin the project allowable limit. Tle sumnary result"
+    },
+    {
+      "type": "paragraph",
+      "text": "was indicaled as below"
+    },
+    {
+      "type": "paragraph",
+      "text": "For FQI _ 1420"
+    },
+    {
+      "type": "paragraph",
+      "text": "'The maximun expanded uncerlainty for standard volume Ilow rate = 0,36 %"
+    },
+    {
+      "type": "paragraph",
+      "text": "The maximun expanded uncertainty for energy (low rate = 0,37 %"
+    },
+    {
+      "type": "paragraph",
+      "text": "% Flowrate Energy flowrate"
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard flowrale Uexp standard Ucxp energy flowrate"
+    },
+    {
+      "type": "paragraph",
+      "text": "(1 '/h) (n1' /h) *) flowrale (%) (%)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iax (MJIl)"
+    },
+    {
+      "type": "paragraph",
+      "text": "8 The unit of volume flowvate is converted t0 the reference conlition at 1,01325 bu < and 15 \"'"
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard Flowrate Expanded Uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,35 036"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,36 0,85"
+    },
+    {
+      "type": "paragraph",
+      "text": "0,3"
+    },
+    {
+      "type": "paragraph",
+      "text": "E ,20"
+    },
+    {
+      "type": "paragraph",
+      "text": ",00"
+    },
+    {
+      "type": "paragraph",
+      "text": "5 5,01 10,07 25,25 39,93 69,76 80,43"
+    },
+    {
+      "type": "paragraph",
+      "text": "% of Qmax"
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 28 0l3"
+    }
+  ],
+  "num_tables": 2,
+  "num_blocks": 28
+}

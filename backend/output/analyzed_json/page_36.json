@@ -1,0 +1,170 @@
+{
+  "page": "page_36.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "10 /",
+          "0,36",
+          "0,11",
+          "0,/9",
+          "0237"
+        ],
+        [
+          "25,2",
+          "0,36",
+          "0,11",
+          "0,19",
+          "0,37"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS (F GAS METERING SYSTEM ~ PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.0 ENERGY FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "(ysn Jexp Uwv)cxp"
+    },
+    {
+      "type": "paragraph",
+      "text": "U4*"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "For FT _ 1420"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value Prohahility Divisor /"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol Ci (i (ci X u;)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "o[ uncertainty % dlistrihution Multiplier"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hstd Slandard tlowrate 0,356 Normal 2,()) 1,00 0,18 0,032"
+    },
+    {
+      "type": "paragraph",
+      "text": "CV Calorilic value 0,110 Normal 2,(() 1,00 0,06 0,003"
+    },
+    {
+      "type": "paragraph",
+      "text": "UgE) Comnbined slandard uncertainty Normal 0,186"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ua) Expanded uncertainty Normal (k=2) 2,(() 0,37"
+    },
+    {
+      "type": "paragraph",
+      "text": "For FT - 1440"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value Probability Divisor /"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symhol Ci Ui (c; X u;)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "of uncertainty \" distribution Multiplier {rs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ssu Standard tlowrate 0,379 Normal 2,(0 1,00 0,/9 0,036"
+    },
+    {
+      "type": "paragraph",
+      "text": "CV Calorific value 0,110 Normal 2,00 1,00 0,06 0,003"
+    },
+    {
+      "type": "paragraph",
+      "text": "W) Combined standard uncertainty Nornal 0,/97"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uae) Expanded uncertainty Normal (k=2) 2,()(} 0,39"
+    },
+    {
+      "type": "paragraph",
+      "text": "The calculations summarised in Ile following   table is   performed at differential tlow range"
+    },
+    {
+      "type": "paragraph",
+      "text": "increments throughout the operaling range ol the (lowrate ol USM"
+    },
+    {
+      "type": "paragraph",
+      "text": "For FT -1420"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ultrasonic meter Standard_uncertainty '% Comnbined"
+    },
+    {
+      "type": "paragraph",
+      "text": "Expanded"
+    },
+    {
+      "type": "paragraph",
+      "text": "flow range standard (%)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uastd Ucv (%) k = 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "%"
+    },
+    {
+      "type": "paragraph",
+      "text": "5,0 0,35 018 \"36"
+    },
+    {
+      "type": "paragraph",
+      "text": "39,9 0,35 0) 1 0,18 0,36"
+    },
+    {
+      "type": "paragraph",
+      "text": "6928 0,34 0,18 41,36"
+    },
+    {
+      "type": "paragraph",
+      "text": "80,4 0,35 0,1 0,18 1,36"
+    },
+    {
+      "type": "paragraph",
+      "text": "Divisor 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ci"
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 26 0/"
+    }
+  ],
+  "num_tables": 1,
+  "num_blocks": 37
+}

@@ -1,0 +1,90 @@
+{
+  "page": "page_37.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "10,0",
+          "0,36",
+          "0,19",
+          "0,37"
+        ],
+        [
+          "25,0",
+          "0,37",
+          "0,19",
+          "0,39"
+        ],
+        [
+          "40,3",
+          "0,38",
+          "0,20",
+          "(,39"
+        ],
+        [
+          "69,8",
+          "0,37",
+          "0.19",
+          "0,38"
+        ],
+        [
+          "79,8",
+          "0,37",
+          "0,19",
+          "0,39"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS (F CAS METIRING SYSTEM ~ PM4 P(WIR PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.0 ENERGY FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "For FT = 1440"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ultrasonic mcler Standard_uncertainty Combined Expanded"
+    },
+    {
+      "type": "paragraph",
+      "text": "flow range standard (%)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ustdl Ucv (%) k = 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"o"
+    },
+    {
+      "type": "paragraph",
+      "text": "5.() (),36 0 0,19 (1,38"
+    },
+    {
+      "type": "paragraph",
+      "text": "Divisor 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "C'i"
+    },
+    {
+      "type": "paragraph",
+      "text": "O"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pagc 27 0131"
+    }
+  ],
+  "num_tables": 1,
+  "num_blocks": 13
+}

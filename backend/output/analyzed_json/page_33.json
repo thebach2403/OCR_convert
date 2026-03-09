@@ -1,0 +1,271 @@
+{
+  "page": "page_33.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "URo)",
+          "Relalion density",
+          "0,/96",
+          "Normal",
+          "2,00",
+          "1,(0",
+          "0. 1 0",
+          "0,010"
+        ],
+        [
+          "Uugostd)",
+          "Standard density",
+          "0,/1",
+          "Normal",
+          "2,(0)",
+          "100",
+          "0,06",
+          "0,003"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "5,()",
+          "0.29",
+          "0. 16",
+          "0.11",
+          "(.(6) |",
+          "0.17",
+          "0,35"
+        ],
+        [
+          "1(). 1",
+          "0.30",
+          "0.16",
+          "0) . 1",
+          "0) .()6) 7",
+          "0.18",
+          "(),36"
+        ],
+        [
+          "25.2",
+          "0.30",
+          "0.16",
+          "0.1 1",
+          "() .()() ]",
+          "0.18",
+          "(),36"
+        ],
+        [
+          "39.9",
+          "().29",
+          "0,16",
+          "0.11",
+          "0) .(6) 1",
+          "().17",
+          "(),35"
+        ],
+        [
+          "69,8",
+          "().28",
+          "0,16",
+          "0,11",
+          "(),(() 1",
+          "0,17",
+          "4),34"
+        ],
+        [
+          "80,4",
+          "(),29",
+          "0,16",
+          "0,11",
+          "() , ()6) |",
+          "0,17",
+          "(),35"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Distrilution",
+          "Norumal",
+          "Normal",
+          "Normal",
+          "Normal",
+          "Normal"
+        ],
+        [
+          "Divisor",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "ci"
+        ],
+        [
+          "For FT _ 1440"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "5.)",
+          "0.28",
+          "0.20",
+          "0.11",
+          "() , ()0) |",
+          "0.18",
+          "(),36"
+        ],
+        [
+          "10,0",
+          "().28",
+          "0.26)",
+          "()./ ]",
+          "() .()6)",
+          "0).18",
+          "11,36"
+        ],
+        [
+          "25.(",
+          "(.30",
+          "0.20",
+          "0.11",
+          "().()6)",
+          "0.19",
+          "(,37"
+        ],
+        [
+          "46).3",
+          "(),30",
+          "(,20",
+          "(.1 7",
+          "() . ()6) |",
+          "0,19",
+          "1),38"
+        ],
+        [
+          "69.8",
+          "().29",
+          "0.20",
+          "().11",
+          "() .()6) |",
+          "0.18",
+          "(1,37"
+        ],
+        [
+          "79,8",
+          "().30",
+          "0,20",
+          "().1 1",
+          "0).()6) |",
+          "0). 19",
+          "037"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Distrihutioon",
+          "Normal",
+          "Normal",
+          "Nornnal",
+          "Normal",
+          "Normal"
+        ],
+        [
+          "[ivisor",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS (F (AS MIT'ERIN(; SYSTEM  PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.0 STANDARD VOLUME FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "For FT = 1440"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value Frohalility Divisur /"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symhol Cí Ili (c; X \";) ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "of uncertainty % distrihution Multiplier"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(us) Ultrasonic_calibration 0.,304 Norna/ 2,(() 1,00 0.15 0,023"
+    },
+    {
+      "type": "paragraph",
+      "text": "I(C) Flow computer_ calculalion 0.()0 | Norma] 2.()() 1,(0 0),00) 2,50E-07"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(ostu) Combined standard uncertainty Normal (),189"
+    },
+    {
+      "type": "paragraph",
+      "text": "(/osid) Fixpanded ucertainty Normal (k=2- 2,00 0,38"
+    },
+    {
+      "type": "paragraph",
+      "text": "The normalizcd volumc Ilow cxpanded unccrtainty  for both ultrasonic mcters undcr various"
+    },
+    {
+      "type": "paragraph",
+      "text": "[low conditions is given in the lollowing tables"
+    },
+    {
+      "type": "paragraph",
+      "text": "For FT = 1420"
+    },
+    {
+      "type": "paragraph",
+      "text": "% Qmav U(n) Uaho) UJgghu s sld) Uuec) [ Josi) Uuxj sld fr"
+    },
+    {
+      "type": "paragraph",
+      "text": "% Qmax (Jom) U(Rhw) UaRh sIdl) U(f(\" Uazsid) [uxp : Sll Ir"
+    },
+    {
+      "type": "paragraph",
+      "text": "ci"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pagc 23 ( 31"
+    }
+  ],
+  "num_tables": 6,
+  "num_blocks": 23
+}

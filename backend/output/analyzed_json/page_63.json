@@ -1,0 +1,66 @@
+{
+  "page": "page_63.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Rho",
+          "Relation dcnsity",
+          "0,196",
+          "Norma/",
+          "2,00",
+          "1,00",
+          "0,10"
+        ],
+        [
+          "Rhostd",
+          "Standard densily",
+          "0.1/1",
+          "Normal",
+          "2,00",
+          "1,00",
+          "0,06"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "PIU MY GIC - FQl /440 GAS METERING SYSTEM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value Prohahility Dívisor /"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol Ci Uí (c; x u;)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "of Uncertainty % [istribution Multiplier"
+    },
+    {
+      "type": "paragraph",
+      "text": "M Ultrasonic calibration 0,304 Normal 2,00 1,00 0,15 0,023"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fc Flow compuler calculalion 0,001 Norma] 2,0() 1,06) 0,00 2,5015,-07"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(Qstd) Combined standard uncertainty Normnal 0.189"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uags) Expanded uncerlainty Normal (k=2) 2,00 0,38"
+    },
+    {
+      "type": "paragraph",
+      "text": "KT3-01325CD19.2 1T1440 Uncertainty .xls Page 8 of 10"
+    }
+  ],
+  "num_tables": 1,
+  "num_blocks": 10
+}

@@ -1,0 +1,411 @@
+{
+  "page": "page_60.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "C",
+          "Elhane",
+          "(),433",
+          "Nortnal",
+          "2,0()",
+          "0,07236)",
+          "0,22",
+          "2,45E-04"
+        ],
+        [
+          "C;",
+          "Propane",
+          "0 ,313",
+          "Nurnal",
+          "2,0u",
+          "(),05476",
+          "0,16",
+          "7,36E-05"
+        ],
+        [
+          "iC4",
+          "i-Bulane",
+          "(,358",
+          "Nunal",
+          "2,(0",
+          "{,( 1683",
+          "0, 18",
+          "9,{6F:-()6"
+        ],
+        [
+          "IC4",
+          "I-Butanc",
+          "(),344",
+          "Normal",
+          "2,()()",
+          "(,() [545",
+          "(),17",
+          "7,051:-()6"
+        ],
+        [
+          "iCs",
+          "i-Pentane",
+          "(,583",
+          "Normal",
+          "2,{u",
+          "0),()6J649)",
+          "0,29",
+          "3,581'-(6"
+        ],
+        [
+          "JCs",
+          "n-Pcnlanc",
+          "0,674",
+          "Normal",
+          "2,(0",
+          "{),(10397",
+          "0,34",
+          "1,791:-06"
+        ],
+        [
+          "nC6",
+          "tl-[lexane",
+          "(46",
+          "Nornal",
+          "2,0(",
+          "0,6)0709)",
+          "(),52",
+          "1,38E-(5"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "C,",
+          "1,8880",
+          "(),0236",
+          "0.1",
+          "0,02",
+          "0,0336",
+          "0,763455"
+        ],
+        [
+          "N",
+          "0,0048",
+          "{),3506",
+          "0416",
+          "0,02",
+          "0,3584",
+          "0,007249"
+        ],
+        [
+          "COz",
+          "0,0246",
+          "(),2891",
+          "0,09",
+          "0,02",
+          "0,3(62",
+          "0,()57793"
+        ],
+        [
+          "C:",
+          "0,0448",
+          "(),3791",
+          "0,18",
+          "0,02",
+          "(,4332",
+          "0,072299"
+        ],
+        [
+          "C;",
+          "(,0232",
+          "0,2979",
+          "0,08",
+          "().02",
+          "(,3133",
+          "0,054761"
+        ],
+        [
+          "Hz0",
+          "(Lutin",
+          "{)(hnUu)",
+          "{(a)",
+          "().()6}",
+          "(1.()(()t}",
+          "(,uthu)a)6jt)"
+        ],
+        [
+          "I2S",
+          "(l(tjuli",
+          "A> aJija",
+          "(tjt)",
+          "(,U6)",
+          "(Y,(M)(()",
+          "(>,uuiguit)u)"
+        ],
+        [
+          "12",
+          "U Uuuu",
+          "(,()uit6)",
+          "{LUu",
+          "(1.(6}",
+          "(}uU)t}",
+          "()Uc)gYujt)u)"
+        ],
+        [
+          "CO",
+          "(i((u)()",
+          "H Uihti6)",
+          "(,(j6)",
+          "(u)",
+          "(}(MJ()t)",
+          "Uintit)uuu)"
+        ],
+        [
+          "02",
+          "(L(htu)u)",
+          "I,(utn)",
+          "Nau",
+          "((u)",
+          "Woi)t}",
+          "(,UJ(J)66)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "iC,",
+          "0,0654",
+          "0,3333",
+          "0,11",
+          "0,(2",
+          "0,3577",
+          "0,016830"
+        ],
+        [
+          "nC4",
+          "0,0050",
+          "0,3228",
+          "0,10",
+          "0,02",
+          "0,3438",
+          "0,015451"
+        ],
+        [
+          "iCs",
+          "0,0017",
+          "0,5608",
+          "0,14",
+          "(),()2",
+          "0,583[",
+          "(,006486"
+        ],
+        [
+          "nC5",
+          "0,u01u",
+          "{),5950",
+          "0,27",
+          "().02",
+          "0,6737",
+          "(,003969"
+        ],
+        [
+          "1C6",
+          "0,0015",
+          "1,0430)",
+          "0,07",
+          "0,02",
+          "1,(459",
+          "(),007093"
+        ],
+        [
+          "IC'7",
+          "(.(it)uigi",
+          "61,()6 Jij6)",
+          "{ (i}",
+          "U.Ut}",
+          "((u)uu}",
+          "() (_joy)(ic)"
+        ],
+        [
+          "IC'x",
+          "() (ttJi)",
+          "{ ()ta6)",
+          "(,u{",
+          "U (i(",
+          "Wch}",
+          "(i)k>tiun()"
+        ],
+        [
+          "nC\"",
+          "() ,_h()}",
+          "4) (dtuju)",
+          "U,U6}",
+          ".in)",
+          "(},()6)6)",
+          "N Ucutycig)o)"
+        ],
+        [
+          "nC1",
+          "()ttu)",
+          "Jaltg)",
+          "1un)",
+          "(1,(16)",
+          "(.(i)(ht}",
+          "a9,I6i)uJg)u)"
+        ],
+        [
+          "Ile",
+          "y(iu)g",
+          "HUutg)",
+          "( (0",
+          "Al.in",
+          "()(()(it)",
+          "()(6))tun)"
+        ],
+        [
+          "Ar",
+          "(L()n}",
+          "H,Uthu()",
+          "(Jt)",
+          "( (t)",
+          "(,(1(ia}",
+          "(1 (i1)6)6n()"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tb, %",
+          "15"
+        ],
+        [
+          "Pb, Bar",
+          "1,01325"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Ils.kJ/kg",
+          "51,1131528"
+        ],
+        [
+          "Hs. kImol",
+          "958,929039"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "FII MIY ((' - FQ[1440 (AS METERING SYSTEM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value Prububility [Jivisur /"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol u; (c; X u;)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "of (ncertainty \" [istrihution Multiplier"
+    },
+    {
+      "type": "paragraph",
+      "text": "Equation of stale 0,! {6) Nortnal 2,00 1 ,(6)()66) (),u5 2,50E-0}"
+    },
+    {
+      "type": "paragraph",
+      "text": "Melhane ().()34 Nortnal 2,(0) 0},76345 0,(2 1,6442-04"
+    },
+    {
+      "type": "paragraph",
+      "text": "N Nitrogen 0,358 Normal 2,(0) (,06725 (),18 1,694:-06"
+    },
+    {
+      "type": "paragraph",
+      "text": "C0z Carbon D)ioxide (,306 Normal 2,(() (2,05779) 0,15 7,831:-05"
+    },
+    {
+      "type": "paragraph",
+      "text": "{(Rliosld} Combined standard uncerlainly Normal 0,056 @9#"
+    },
+    {
+      "type": "paragraph",
+      "text": "URhosld) Expanded] unccrlainty Nornal (k=-2) 2,00 0113@MM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard density calculaled in accordancc will: 1806976-1995"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sensitivity_cugllicienL calrulation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cal gas Calibralia)n Chraat Combined"
+    },
+    {
+      "type": "paragraph",
+      "text": "Value Uncerlainly Tolerance Repeatahilily   Uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "% % % %"
+    },
+    {
+      "type": "paragraph",
+      "text": "27"
+    },
+    {
+      "type": "paragraph",
+      "text": "Std Rho   kpm 0,795579 0,04899"
+    },
+    {
+      "type": "paragraph",
+      "text": "'1L, \"€ 15 15"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thuv, \"( 15 ()"
+    },
+    {
+      "type": "paragraph",
+      "text": "Is.MJISIn' 10*5 40,6645618 42,842891"
+    },
+    {
+      "type": "paragraph",
+      "text": "R den ,64923528 (),6491983"
+    },
+    {
+      "type": "paragraph",
+      "text": "M mass. Kg/kmol 18,7609057 18,760498"
+    },
+    {
+      "type": "paragraph",
+      "text": "Std.Rho , kgSm' 0,79557921 0,7955767"
+    },
+    {
+      "type": "paragraph",
+      "text": "L (,9973135"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hi.NI/SI' .10 $ 36,7417527"
+    },
+    {
+      "type": "paragraph",
+      "text": "{T3-01325CDT9.2 FT1440 Uncertainty .xts Page 5 of 10"
+    }
+  ],
+  "num_tables": 5,
+  "num_blocks": 31
+}

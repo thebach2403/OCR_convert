@@ -1,0 +1,60 @@
+{
+  "page": "page_52.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "qstd",
+          "Standard Ilowrate",
+          "0,356",
+          "Nortal",
+          "2,00",
+          "1,00",
+          "0,18",
+          "0,032"
+        ],
+        [
+          "CV",
+          "Caloritic value",
+          "0,110",
+          "Normal",
+          "2,()0)",
+          "1,00",
+          "0,06",
+          "0,003"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "PIU MY GDC - FQI 1420 GAS MEFERING SYSTEM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value Probahility [ivisor /"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol Ci Wi (c; xu;)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "of Uncertainty % Iistribution Multiplier"
+    },
+    {
+      "type": "paragraph",
+      "text": "u(E) Conbined standard uncertainly @@n Normal D 0,186 @@"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(E) Expanded uncertainty Ess Normal (k-2)7 2,00 @l 0,37"
+    },
+    {
+      "type": "paragraph",
+      "text": "KT3-01325CDT9.1 FT1420 Uncertainty .xls Page 9 of 10"
+    }
+  ],
+  "num_tables": 1,
+  "num_blocks": 8
+}

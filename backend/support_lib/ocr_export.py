@@ -43,3 +43,28 @@ def to_builtin(obj):
         return obj.item()   # numpy scalar → int / float
     else:
         return obj
+    
+
+from docx import Document
+def save_analyzed_word(analyzed_data, output_path):
+    doc = Document()
+    doc.add_heading(
+        f"Page: {analyzed_data.get('page','')}",
+        level=2
+    )
+    for block in analyzed_data["blocks"]:
+        # Paragraph
+        if block["type"] == "paragraph":
+
+            doc.add_paragraph(block["text"])
+
+        # Table
+        elif block["type"] == "table":
+            rows = len(block["rows"])
+            cols = len(block["rows"][0])
+            table = doc.add_table(rows=rows, cols=cols)
+            for r in range(rows):
+                for c in range(cols):
+                    table.cell(r, c).text = block["rows"][r][c]
+            doc.add_paragraph("")
+    doc.save(output_path)

@@ -1,0 +1,176 @@
+{
+  "page": "page_23.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Uade",
+          "ADDC tolerance (ElowConp_Input)",
+          "0,091",
+          "Kectangular",
+          "1,73",
+          "1,00",
+          "0052",
+          "2,75E-03"
+        ],
+        [
+          "Uptol",
+          "Transmitter calibralion tolerance",
+          "0,080",
+          "Reclangular",
+          "1,73",
+          "1,00",
+          "0,046",
+          "2,11E-03"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METERING SYSTEM \" PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.0 STANDARD VOLUME FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "PT ~ 1423"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symbol Distribulion [ivisor C; Ilj (ci x u;)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "of Uncertainty \""
+    },
+    {
+      "type": "paragraph",
+      "text": "Upac Reference accuracy 0,026 Rectangular 1,73 1,00 0,015 2,341-04"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upcal Transmitter calibration 0,061 Normal 2,00 1,00 0,030 9,1BE-04"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ulemp Ambient_tenperature_eflcct 0,059 Rectangular 1,73 1,00 0,034 1,47E-03"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uadc ADC tolerance (llowConp_Input) 0,09[ Kectangular 1,73 1,00 0,052 2,75E-03"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uptol '[ransmitter calibration tolerance 0,091 Keclangular 1,73 1,00 0,052 2,75E-03"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upd Drift 0,104 Reclangular 1,73 1,00 0,060 3,64E-03"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upe Power supply elfect 0,045 Rectangular 1,73 1,00 0,026 6,89E-04"
+    },
+    {
+      "type": "paragraph",
+      "text": "u(p) Combined standard ucertainty Nornnal 0,110"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(p Fxpanded uncertainty Normal (k-2) 2,00 05322"
+    },
+    {
+      "type": "paragraph",
+      "text": "PT _ 1443"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value"
+    },
+    {
+      "type": "paragraph",
+      "text": "Synhol Distrilulion [ivisor Ci U; (c; X u;)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "of Uncertainty %"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upac Reference accuracy 0,025 Rectangular 1,73 1,,00 0,014 2,0972 04"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upcal [ransmitter calibration 0,/14 Normal 200 L0o 9,057 3,20"
+    },
+    {
+      "type": "paragraph",
+      "text": "Utemp Ambient_temperature elfect 0,043 Rectangular 173 1,0o 0,025 6,21E-04"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upd Urift 0,209 Rectangular 1,73 1,00 0,121 1,46E-02"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upp Power supply effect 0,045 Rectangular 1,73 1,00 0,026 6,89E-04"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"(p) Combined standard uncertainty Normal 0,156"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(j) Expandled uncertainty Normal (k=2) 2,00 0,31;"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.1.9 The Expandcd uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "The expanded unccrtainty is calculatcd by multiplying the combined standard  unccrtainty hy"
+    },
+    {
+      "type": "paragraph",
+      "text": "thc coverage lactor k 2 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.2 Temperature"
+    },
+    {
+      "type": "paragraph",
+      "text": "'Temperalure is mcasurcd using a RID PTIO0. 'Thc  output is a resistancc  analoguc signal"
+    },
+    {
+      "type": "paragraph",
+      "text": "ranged (0 80) %'"
+    },
+    {
+      "type": "paragraph",
+      "text": "The combined standard  uncertainty in tcmpcraturc is cslimated by combining inputs dcrivcd"
+    },
+    {
+      "type": "paragraph",
+      "text": "{rou the  calibralion of thc  transduccr   and thc  mnanufacturer  $ spcci fication using thc following"
+    },
+    {
+      "type": "paragraph",
+      "text": "equation:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pagc 13 0f 31"
+    }
+  ],
+  "num_tables": 1,
+  "num_blocks": 37
+}

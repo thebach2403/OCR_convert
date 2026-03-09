@@ -1,0 +1,100 @@
+{
+  "page": "page_18.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "5,0",
+          "0,14",
+          "0,000",
+          "0,30",
+          "0,14",
+          "0,28"
+        ],
+        [
+          "100",
+          "0,13",
+          "0,000",
+          "0,30",
+          "0,14",
+          "0,28"
+        ],
+        [
+          "25,0",
+          "0,17",
+          "0,000",
+          "0,30",
+          "0,15",
+          "0,30"
+        ],
+        [
+          "40,3",
+          "0,18",
+          "0,000",
+          "0,30",
+          "0,15",
+          "0,30"
+        ],
+        [
+          "69,8",
+          "0,15",
+          "0,000",
+          "0,30",
+          "0,14",
+          "0,29"
+        ],
+        [
+          "79,8",
+          "0,17",
+          "0,000",
+          "0,30",
+          "0,15",
+          "0,30"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METERING SYSTEM \" PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.0 ULTRASONIC METER UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "For FT _ 1440"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ultrasonic meler Standard uncertainty (% Combined Expanded"
+    },
+    {
+      "type": "paragraph",
+      "text": "flow range (%) uncertainty uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ucal Utol Umi k = 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "ci L,00 1,00 1,00"
+    },
+    {
+      "type": "paragraph",
+      "text": "[lohc"
+    },
+    {
+      "type": "paragraph",
+      "text": "2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 8 of 3"
+    }
+  ],
+  "num_tables": 1,
+  "num_blocks": 11
+}

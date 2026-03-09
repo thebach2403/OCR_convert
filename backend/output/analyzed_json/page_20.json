@@ -1,0 +1,147 @@
+{
+  "page": "page_20.png",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METERING SYSTEM ~ PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.0 STANDARD VOLUME FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uo2e|_ (\"2\") +(%)+(\") (\")+(4)-(4)-"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uo Rho )"
+    },
+    {
+      "type": "paragraph",
+      "text": "((\") 4 (\"2) (\"4) 4 (\"2*) +(\"z) 4 (%a)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The expanded uncertainty is"
+    },
+    {
+      "type": "paragraph",
+      "text": "U =2 X u"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rho )exp Rho"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.1 Pressure"
+    },
+    {
+      "type": "paragraph",
+      "text": "Line pressure is measured using a type pressure transmilter built in PT 1423 , PT 1443. The"
+    },
+    {
+      "type": "paragraph",
+      "text": "pressure transducer was calibrated on tield for a span (0 ~ 60,0) barg Line pressure was estimated"
+    },
+    {
+      "type": "paragraph",
+      "text": "at operaling pressure of 34,01325 bar a"
+    },
+    {
+      "type": "paragraph",
+      "text": "The combined standard  uncertainty in pressure is estimated by combining inputs derived"
+    },
+    {
+      "type": "paragraph",
+      "text": "from the calibration of the transducer   and the manufacturer's  specilication using the following"
+    },
+    {
+      "type": "paragraph",
+      "text": "equation:"
+    },
+    {
+      "type": "paragraph",
+      "text": "púc' peal plemp pulc: ptol"
+    },
+    {
+      "type": "paragraph",
+      "text": "PP"
+    },
+    {
+      "type": "paragraph",
+      "text": "U p 9"
+    },
+    {
+      "type": "paragraph",
+      "text": "3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the sources of uncerlainty are"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upac Reference accuracy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upcal Transmitter calibration"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uplemp Ambient temperalure eftect"
+    },
+    {
+      "type": "paragraph",
+      "text": "pade ADC tolerance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uplol Transmitter calibration tolerance"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upd Drilt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upp Power supply effect"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.1.1 Reference accuracy Upac"
+    },
+    {
+      "type": "paragraph",
+      "text": "The reference accuracy is taken from the product data sheet of PT model 3051* Rosemount"
+    },
+    {
+      "type": "paragraph",
+      "text": "for the pressure transducer. From the product technical bulletin, turndown ratio is 2,3:1, this has"
+    },
+    {
+      "type": "paragraph",
+      "text": "result"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upac =+ 0,026 % of span for PT 1423"
+    },
+    {
+      "type": "paragraph",
+      "text": "Upac =4 0,025 % of span for P[ - 1443"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 Rosemonnt Model 305 [ Pressure Transmitter"
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 10 ol 3"
+    }
+  ],
+  "num_tables": 0,
+  "num_blocks": 35
+}

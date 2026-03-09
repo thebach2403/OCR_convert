@@ -1,0 +1,51 @@
+{
+  "page": "page_51.png",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PHU MY GIC FQI/420_ GAS METERING SYSTEM"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value Probability Divisor /"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symhol C; (i (c x u;)2"
+    },
+    {
+      "type": "paragraph",
+      "text": "of Uncertainty % Distrilution Multiplier"
+    },
+    {
+      "type": "paragraph",
+      "text": "M Ultrasonic calibration 0,298 Normal 2.00 1,00 0,15 0,022"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rho Relation density 0,159 Normal 2,00 1,00 0,08"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rhostd Standard density 0,11 Nornal 2,00 1,00 0,06 0"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fc Flow computer calculation 0,001 Norma] 2,00 1,,00 0,00 2,50E-07"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(ostd) Combined standard uncerlainty Normal 0,178"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(oste) Eixpanded uncerlainty Normal (k=2) 2.00 06 Dwm"
+    },
+    {
+      "type": "paragraph",
+      "text": "KT3-01325CDT9.1 FT1420 Uncertainty xls Page 8 ol 10"
+    }
+  ],
+  "num_tables": 0,
+  "num_blocks": 11
+}

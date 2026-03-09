@@ -1,0 +1,146 @@
+{
+  "page": "page_22.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "component assumed for drift is taken to be 0,125 % URL,"
+        ],
+        [
+          "Upd = + 0,034 barl year"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METERING SYSTEM \" PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.0 STANDARD VOLUME FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uptol 4 0,050% of span for PT 1423"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uplol = + 0,044% of span for PT = 1443"
+    },
+    {
+      "type": "paragraph",
+      "text": "when calculating the standard uncertainty a rectangle distribution is assumed with a coverage"
+    },
+    {
+      "type": "paragraph",
+      "text": "factor k =1,73 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.1.6 Drift Upd"
+    },
+    {
+      "type": "paragraph",
+      "text": "The contribution due to drifì in transducer output is calculated from the value for stability"
+    },
+    {
+      "type": "paragraph",
+      "text": "taken from the product data sheet and the calibration interval."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stability =4 0,125% URLI 60 months"
+    },
+    {
+      "type": "paragraph",
+      "text": "As the upper range limit of tle transducer is 137,9 bar and the calibration interval year, the"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once a suflicient number of calibrations have been performed over time this value can be"
+    },
+    {
+      "type": "paragraph",
+      "text": "recalculaled from the calibration results."
+    },
+    {
+      "type": "paragraph",
+      "text": "when calculating the standard uncertainty a rectangle distribution is assumed with a coverage"
+    },
+    {
+      "type": "paragraph",
+      "text": "factor k = 1,73 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.1.7 Power supply effect Upp"
+    },
+    {
+      "type": "paragraph",
+      "text": "A conlribution is made lo the uncertainty budget for variations in power supply, including the"
+    },
+    {
+      "type": "paragraph",
+      "text": "variation   belween the power  supply   during  the   calibration of  the transmitter and   that   during"
+    },
+    {
+      "type": "paragraph",
+      "text": "operation:. he estimated uncerlainty for this is taken from the product data sheet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Power supply effect = < 4 0,005% of calibrated span per volt"
+    },
+    {
+      "type": "paragraph",
+      "text": "The tolerance for the maximum power supply deviation is assumed t0 be + 5 volts, therefore"
+    },
+    {
+      "type": "paragraph",
+      "text": "Up\"7 = 4 0,025% of calibrated span"
+    },
+    {
+      "type": "paragraph",
+      "text": "When   calculating   the standard   uncertainty à rectangular   distribution is assumed with a"
+    },
+    {
+      "type": "paragraph",
+      "text": "coverage factor k = 1,73 ."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1.1.8 Combined uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "The combined standard uncertainty calculated using the equation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ptc pcal ptemp pude ptol Um"
+    },
+    {
+      "type": "paragraph",
+      "text": "M p 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "V3 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "is represented in a tabular form as shown below; note that the sensitivity coellicient ci for each input"
+    },
+    {
+      "type": "paragraph",
+      "text": "is 1 as they are all expressed as a percentage of the pressure reading."
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 12 ol 31"
+    }
+  ],
+  "num_tables": 1,
+  "num_blocks": 33
+}

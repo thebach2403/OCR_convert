@@ -1,0 +1,221 @@
+{
+  "page": "page_17.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "p",
+          "Gas density al linc condition; calculated in accordancc will AGA 8 - 1994"
+        ],
+        [
+          "0l",
+          "Gas density at base condition, calculated in accordancc with IS0 6976-1995"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "5,0",
+          "0,15",
+          "o,000",
+          "0,30",
+          "0,14",
+          "0,29"
+        ],
+        [
+          "10,!",
+          "017",
+          "u,uuo",
+          "0,30",
+          "0,15",
+          "0,30"
+        ],
+        [
+          "25,2",
+          "0,217",
+          "@,u0o",
+          "0,30",
+          "0215",
+          "0,30"
+        ],
+        [
+          "39,9",
+          "0,15",
+          "@,000",
+          "\",30",
+          "014",
+          "0,29"
+        ],
+        [
+          "69,8",
+          "0,14",
+          "(),uo0",
+          "0,30",
+          "044",
+          "(,28"
+        ],
+        [
+          "80,4",
+          "015",
+          "Q,uou",
+          "0,30",
+          "0,14",
+          "0,29"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METERING SYSTEM PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.0 ULTRASONIC METER UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pressure al linc condition. bar a"
+    },
+    {
+      "type": "paragraph",
+      "text": "1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Prcssurc at basc condition; 1,01325 bar a"
+    },
+    {
+      "type": "paragraph",
+      "text": "T,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tcmperalurc at line condition; %C'"
+    },
+    {
+      "type": "paragraph",
+      "text": "T;"
+    },
+    {
+      "type": "paragraph",
+      "text": "'Temperalure at basc condition; 15 %C (288,15 K)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Z,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gas compressibility at line condition; calculated in accordancc wilh AGA 8-1994"
+    },
+    {
+      "type": "paragraph",
+      "text": "Z,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gas compressibility at basc condition; calculalcd in accordance witl IS0 6976-1995"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.3 Derivation of ultrasonic metering uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "The  ultrasonic  tnelcr was senl lor 2 wet  calibration at a third party calibration facility in"
+    },
+    {
+      "type": "paragraph",
+      "text": "C'EESI. From thc calibralion certificale; CILSI had dcclared that Ile mnaximum tolerance crror of"
+    },
+    {
+      "type": "paragraph",
+      "text": "the calibrated mcter is (,064 % for FT 1420. 0,05 % lor FT 1440."
+    },
+    {
+      "type": "paragraph",
+      "text": "From the experimcntal rcsult ol the calibration; the maximum calibration uncertainty (Ucal) of"
+    },
+    {
+      "type": "paragraph",
+      "text": "melers which will allcct the actual mncasurcmnent during opcralion is estimated for this experimental"
+    },
+    {
+      "type": "paragraph",
+      "text": "dala 0,18 % ol calibrated span."
+    },
+    {
+      "type": "paragraph",
+      "text": "An installation conliguration error will contributed to the meter installalion at site (Umi)."
+    },
+    {
+      "type": "paragraph",
+      "text": "9 Section 7.2.2. recommended that a maximun error is 0,3 % lor this effect and it has accounted for"
+    },
+    {
+      "type": "paragraph",
+      "text": "the k multiplicr ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thne USM combined uncertainty is givcn a lollow"
+    },
+    {
+      "type": "paragraph",
+      "text": "cul Uol mi"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(m) ="
+    },
+    {
+      "type": "paragraph",
+      "text": "2 1,73 2,45"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thic calculated cxpandcd unccrtainty lor ultrasonic meter is summarized in tables below"
+    },
+    {
+      "type": "paragraph",
+      "text": "For FT _ 1420"
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard uncertainty (% \" Combined Expanded"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ultrasonic meter"
+    },
+    {
+      "type": "paragraph",
+      "text": "uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "flow rangc (%) uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ucal Utol Umi k = 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "ci 1,(0 1,00 1,00"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pngc 7 0f31"
+    }
+  ],
+  "num_tables": 2,
+  "num_blocks": 39
+}

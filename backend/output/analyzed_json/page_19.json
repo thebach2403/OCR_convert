@@ -1,0 +1,151 @@
+{
+  "page": "page_19.png",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS MITERING SYSTEM PM4 POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.0 STANDARD VOLUME FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thc standard (lowrate is illustralcd as lollowing cquation(in accordance witl AGA 9 Seclion 7.3."
+    },
+    {
+      "type": "paragraph",
+      "text": "= Qline x VCF"
+    },
+    {
+      "type": "paragraph",
+      "text": "sld"
+    },
+    {
+      "type": "paragraph",
+      "text": "1 Tu PL"
+    },
+    {
+      "type": "paragraph",
+      "text": "VCl:' = 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "T; Ph"
+    },
+    {
+      "type": "paragraph",
+      "text": "the unccrtainty equation ol standard volumc flow lor both elcments is therelore."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ihn Jexp U(Rhs) | +(Ux"
+    },
+    {
+      "type": "paragraph",
+      "text": "1) +C"
+    },
+    {
+      "type": "paragraph",
+      "text": "(shd"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.1 Upstream density"
+    },
+    {
+      "type": "paragraph",
+      "text": "'Tle upstream dcnsity is calculated [rom the gas composition neasurcd by a gas"
+    },
+    {
+      "type": "paragraph",
+      "text": "chromatograph Daniel 500 series. tlne line prcssurc mcasured by a pressure transducer and the line"
+    },
+    {
+      "type": "paragraph",
+      "text": "tempcralurc measured by a tempcralure RTD."
+    },
+    {
+      "type": "paragraph",
+      "text": "The functional relationship uscd t0 determine tle line density is defined in AGA8 ~ 1994, this"
+    },
+    {
+      "type": "paragraph",
+      "text": "can be written in thc form:"
+    },
+    {
+      "type": "paragraph",
+      "text": "y = f(x] X2, X}. . . Xi)"
+    },
+    {
+      "type": "paragraph",
+      "text": "whcre the output y (density) is & linnction of a number of inputs x (components; tcmpcralurc and"
+    },
+    {
+      "type": "paragraph",
+      "text": "pressure valucs)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thc sensitivity cocflicicnts lor cach of thc input  quantitics are calculated by successivcly"
+    },
+    {
+      "type": "paragraph",
+      "text": "increasing an decreasing cacl input by the magnitudc of its estimated uncertainty and calculating"
+    },
+    {
+      "type": "paragraph",
+      "text": "thc ellect lhis has on thc resulting dcnsity as described in the GUM'"
+    },
+    {
+      "type": "paragraph",
+      "text": "(emporary variable 'Z is first calculated"
+    },
+    {
+      "type": "paragraph",
+      "text": "Z; = 2[f(; 4- u(x;)_)-f ((Y; = u(;_ )I))]"
+    },
+    {
+      "type": "paragraph",
+      "text": "and whcrc thc cxpandcd unccrtainty is exprcsscd in thc form:"
+    },
+    {
+      "type": "paragraph",
+      "text": "N"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"(j) = 2c; .u*(x;)"
+    },
+    {
+      "type": "paragraph",
+      "text": "1=1"
+    },
+    {
+      "type": "paragraph",
+      "text": "thc value o[ cach sensilivity coellicicnt c; lakcn as 'Zi/u(xi)."
+    },
+    {
+      "type": "paragraph",
+      "text": "By using tlc line pressure, tempcraturc   and live gas data fron gas chromatograpl, the 'ine"
+    },
+    {
+      "type": "paragraph",
+      "text": "compressibility factor and also the line dcnsity value can be oblained in accordance to AGA8 U4"
+    },
+    {
+      "type": "paragraph",
+      "text": "calculation: The combincd slandard uncertainty is calculated as show below"
+    },
+    {
+      "type": "paragraph",
+      "text": "(iuide to the Expression ạf neemtainty in Mfeasurement. Section 5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fagc 9 0f 31"
+    }
+  ],
+  "num_tables": 0,
+  "num_blocks": 36
+}

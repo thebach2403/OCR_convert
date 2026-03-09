@@ -1,0 +1,248 @@
+{
+  "page": "page_30.png",
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "T",
+          "Line temperature",
+          "0,969)",
+          "Normal",
+          "2,00",
+          "-0,09158",
+          "0,48",
+          "1,9742-03"
+        ],
+        [
+          "Z",
+          "Equalion ol state",
+          "0, 1 00",
+          "Normal",
+          "2,00",
+          "1,(0006",
+          "0,05",
+          "2,50/;-03"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "C",
+          "Methane",
+          "0,034",
+          "Norinal",
+          "2,0()",
+          "(),90386",
+          "0,02",
+          "2,30E:-04"
+        ],
+        [
+          "N",
+          "Nitrogen",
+          "0,358",
+          "Normal",
+          "2,00",
+          "(),00756",
+          "0,18",
+          "1,841,-06"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Cz",
+          "Ethane",
+          "0,433",
+          "Norna/",
+          "2,00",
+          "0,08757",
+          "0,22",
+          "3,6016-04"
+        ],
+        [
+          "C",
+          "Propane",
+          "0,313",
+          "Normal",
+          "2,(()",
+          "0,06617",
+          "0,16",
+          "1,071;-04"
+        ],
+        [
+          "iCi",
+          "i-Butane",
+          "0,358",
+          "Normal",
+          "2,00",
+          "0,02032",
+          "0,18",
+          "1,321-05"
+        ],
+        [
+          "nC4",
+          "n-Butane",
+          "(),344",
+          "Normal",
+          "2,00",
+          "(,01859",
+          "0,17",
+          "1,0218-05"
+        ],
+        [
+          "iCs",
+          "i-Pentane",
+          "0,583",
+          "Normal",
+          "2,00",
+          "0,00778",
+          "0,29",
+          "5,141:-06"
+        ],
+        [
+          "nC5",
+          "n-Pentane",
+          "0,674",
+          "Normal",
+          "2,00",
+          "(,00479",
+          "0,34",
+          "2,601-06"
+        ],
+        [
+          "nC6",
+          "n-Hexane",
+          "1,046",
+          "Nornval",
+          "2,(()",
+          "0,00876",
+          "0,52",
+          "2,10E-05"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "UNCERTAINTY ANALYSIS OF GAS METERING SYSTEM = PMA POWER PLANT"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.0 STANDARD VOLUME FLOWRATE UNCERTAINTY"
+    },
+    {
+      "type": "paragraph",
+      "text": "For FT- 1440"
+    },
+    {
+      "type": "paragraph",
+      "text": "Source Value"
+    },
+    {
+      "type": "paragraph",
+      "text": "Symhol Dislrihution Divisor U; (c; X u;)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "(f uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "Absolute pressure (,/21 Nornnal 2,00 1,08993 0,06 4,32E-03"
+    },
+    {
+      "type": "paragraph",
+      "text": "CO2 Carbon [ioxide 0,306 Normzal 2,0)0) 0,(6374 0,15 9,521;-05"
+    },
+    {
+      "type": "paragraph",
+      "text": "UoRh) Combined slandard uncettainty Normal 0,098"
+    },
+    {
+      "type": "paragraph",
+      "text": "U(hu) Expanded uncertainty Normal (k=2) 2,00 0,20"
+    },
+    {
+      "type": "paragraph",
+      "text": "4.2 Standard density"
+    },
+    {
+      "type": "paragraph",
+      "text": "The standard   density is calculated fron the gas composition measured by à gas"
+    },
+    {
+      "type": "paragraph",
+      "text": "chromatograph."
+    },
+    {
+      "type": "paragraph",
+      "text": "'The functional relationship used to determine the standard density is defined in ISO 69765"
+    },
+    {
+      "type": "paragraph",
+      "text": "1995. This can be wrillen in the lorn"
+    },
+    {
+      "type": "paragraph",
+      "text": "y = f(x1, X2, X). _ Xi)"
+    },
+    {
+      "type": "paragraph",
+      "text": "where the output y (slandard density ) is a lunction ola number of inputs x (components forming the"
+    },
+    {
+      "type": "paragraph",
+      "text": "gas composition)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The sensitivity coelficients lor each ol the input quantities are calculated by the same finite"
+    },
+    {
+      "type": "paragraph",
+      "text": "difference melhod as used wlven calculating the sensitivity coellicients for the upstream density ."
+    },
+    {
+      "type": "paragraph",
+      "text": "4.2.1 Sensitivity coefficients for standard density uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "The uncertainty calculation lor eacl component and the sensitivity coellicients are shown in"
+    },
+    {
+      "type": "paragraph",
+      "text": "the table below"
+    },
+    {
+      "type": "paragraph",
+      "text": "The combined standard uncertainty [or each component is calculated by"
+    },
+    {
+      "type": "paragraph",
+      "text": "calg tol rep"
+    },
+    {
+      "type": "paragraph",
+      "text": "U m :="
+    },
+    {
+      "type": "paragraph",
+      "text": "5"
+    },
+    {
+      "type": "paragraph",
+      "text": "IS6) 6976 Nutural (ìas ( 'ulculalion 0f calowvifìc values; dlensily; relaive dlensity aul Wobbe inlex_fium t gas compusilion"
+    },
+    {
+      "type": "paragraph",
+      "text": "Page 20 ol 31"
+    }
+  ],
+  "num_tables": 3,
+  "num_blocks": 32
+}
